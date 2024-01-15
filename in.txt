@@ -1,0 +1,489 @@
+Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma
+
+[[bertil_e_damato|Bertil E. Damato]]
+
+[[joseph_dukes|Joseph Dukes]]
+
+[[howard_goodall|Howard Goodall]]
+
+[[richard_d_carvajal|Richard D. Carvajal]]
+
+# Abstract
+
+Metastatic disease from uveal melanoma occurs in almost 50% of patients suffering from this ocular tumour, with median survival from development of symptoms being around 1 year.
+
+In contrast to cutaneous melanoma, kinase inhibitors and immune checkpoint inhibitors are usually ineffective in patients with metastatic uveal melanoma.
+
+Tebentafusp is a novel form of immunotherapy based on the immune-mobilising monoclonal T cell receptor against cancer (ImmTAC) platform, which comprises a soluble T cell receptor that is fused to an anti-CD3 single-chain variable fragment.
+
+The T cell receptor domain of tebentafusp targets cells present a human leukocyte antigen-A*02:01 complexed with a peptide derived from the melanoma-associated antigen gp100, which is expressed strongly by melanoma cells, weakly by normal melanocytes and minimally by other tissues.
+
+The [[anti-cd3|anti-CD3]] domain recruits [[cd3|CD3+]] [[t-cell|T cells]] (and, indirectly, other immune cells), redirecting these to the melanoma cells.
+
+The most common adverse events with tebentafusp are manageable and usually transient.
+
+Early survival data in patients with metastatic uveal melanoma are promising when considered alongside historical data.
+
+Based on these encouraging results, a randomised study comparing tebentafusp to investigator's choice of therapy in metastatic uveal melanoma is ongoing.
+
+# 1. Introduction
+
+Almost 50% of patients with uveal melanoma (UM) develop metastatic disease (i.e., mqetastatic uveal melanoma (mUM)), despite successful treatment of the primary ocular tumour.
+
+Metastatic disease usually involves the liver and is commonly fatal within a year of the onset of symptoms
+
+Systemic therapy for metastases rarely prolongs life however, recent clinical trials have shown encouraging results with tebentafusp (formerly IMCgp100), a first-in-class, bispecific, fusion protein that redirects CD3+ T cells to gp100-expressing melanoma cells, inducing cytolysis
+
+In this review, we describe UM, cancer immunotherapy and the research that has translated tebentafusp from the laboratory to clinical trials.
+
+2. UM Biology
+
+UM threatens patients with visual handicap, a painful eye, facial disfigurement and untimely death from a metastatic disease [6,7,8].
+
+The incidence is approximately six cases per million people per year [9].
+
+Approximately 90% of UMs involve the choroid; the remainder being confined to the iris or the ciliary body [6,8,10].
+
+Presentation almost always occurs in adulthood, peaking at around the age of 60 years [8,10].
+
+Males are more commonly affected than females [8,9,10].
+
+The large majority of patients are white, and a light-coloured iris is a risk factor [8].
+
+Other predisposing factors include ocular melanocytoma, congenital ocular melanocytosis and the BAP1 tumour predisposition syndrome [8].
+Approximately 80% of UMs arise from mutations in the G alpha pathway (via mutually exclusive mutations in GNAQ, GNA11, PLCB4 or CYSLTR2) [11].
+
+This is in contrast to cutaneous melanoma (CM), the most common form of melanoma [12], which commonly harbours BRAF and NRAS mutations [8,13].
+
+In further contrast to CM, exposure to ultraviolet light is not considered a risk factor for choroidal and ciliary body melanomas [8].
+
+Familial inheritance is also rare with UM, with less than 5% of patients having an inherited component [14].
+
+Treatment of primary UM is aimed at preventing the metastatic spread and, if possible, conserving the eye and useful vision [6,15].
+
+Eye-conserving therapeutic modalities include various forms of radiotherapy, laser therapy and surgical resection [6].
+
+Radiotherapy is administered either with a radioactive plaque, proton beam, or a stereotactic technique, all of which deliver high doses of radiation at the tumour, while minimising the collateral damage to the optic nerve, fovea, lens, and other ocular structures [8,16].
+
+Surgical resection can be performed either in a piecemeal fashion with a vitreous cutter passed through the retina (i.e., endoresection) or by en-bloc excision through a large scleral window (i.e., exoresection and eyewall resection) [17].
+
+Laser therapy (consisting of transpupillary thermotherapy or photodynamic therapy) has a higher rate of local tumour recurrence than other modalities and is, therefore, administered only as an adjunct therapy, except for very small tumours where it is used as the primary treatment [6].
+
+Up to a third of patients require enucleation, either as primary treatment (because the tumour is advanced) or after attempted ocular conservation because of local tumour recurrence or other complications, such as painful neovascular glaucoma after radiotherapy (i.e., toxic tumour syndrome) [18,19].
+
+Quality of life after treatment for UM is usually good—even after enucleation—with any psychological problems usually caused by unrelated factors [20,21].
+
+The Collaborative Ocular Melanoma Study reported no survival differences between patients treated with radiotherapy and those treated with enucleation [22]; however, it is not yet known whether metastasis occurs because of tumour recurrence after eye-conserving therapy [15,23].
+
+3. Metastatic Disease
+
+Despite successful ablation or removal of the ocular tumour, almost 50% of patients with UM develop metastatic disease [1].
+
+It is not known whether ocular treatment ever influences survival and, if so, in whom [15].
+
+Metastatic spread occurs haematogenously and almost always involves the liver, with lung, bone and other organs less frequently affected [2,24].
+
+Metastatic disease develops almost exclusively in patients who have tumours that show chromosome 3 deletion, BAP1 loss or a class 2 gene expression profile (as defined by expression of 12 genes that influence the metastatic spread) [25,26,27].
+
+The time required for developing overt metastatic disease is shorter in patients with a larger tumour, especially if it shows a higher grade of malignancy (e.g., with epithelioid cytomorphology and a high mitotic count) [28,29].
+
+The median survival time after detection of metastases from UM is around 1 year, which varies according to the disease-free interval from primary tumour treatment, size of the largest metastasis, the performance status and liver function tests [2].
+
+There is a general paucity of effective therapies; the National Comprehensive Cancer Network guidelines for UM recommending entry into a clinical trial as the preferred option for metastatic disease [30].
+
+As shown in Table 1, a number of therapeutic approaches have been studied in mUM and very little success has been observed to date, except with liver resections [31].
+
+Table 1. Existing therapies for metastatic uveal melanoma (mUM).
+
+Table
+As a result of limited treatment options, outcomes for patients with metastatic disease have not improved significantly for over 30 years, and more effective therapies are urgently needed [35].
+
+4. Immunotherapy and UM
+
+The first indication that stimulating the immune system can help fight cancer came in 1893, when Coley discovered that injecting a patient with dead bacteria could cause a fever that induced a tumour regression [43].
+
+We now recognise immune evasion to be one of the hallmarks of cancer [44,45].
+
+Cancerous mutations can generate non-self neoantigens (non-native proteins), so that the cancer cells might be recognised and killed by cytotoxic T cells [46]; however, T cell immunity to cancer neoantigens is frequently limited.
+
+This is because cancer neoantigens are often closely related to self-antigens and T cells that are reactive against self-antigens are deleted by thymic selection.
+
+This selection process, known as central tolerance, prevents self-reactive T cells from generating autoimmune diseases [47].
+
+Some auto-reactive T cells escape the thymus and these are regulated by a number of peripheral tolerance mechanisms.
+
+For example, cytotoxic T cells are prevented from attacking normal cells by expressing deactivating (anergy-inducing) molecules, such as programmed cell death protein-1 (PD-1) and cytotoxic T-lymphocyte antigen 4 (CTLA-4).
+
+In addition, any T cells that recognise self-antigens are normally inhibited, inactivated, or deleted by ‘tolerogenic’ dendritic cells, which play a vital role in maintaining central and peripheral tolerance, either directly or via the generation and activation of regulatory T cells (known as Treg cells) [48].
+
+Cytotoxic T cells are also then suppressed by Treg cells [49].
+A cancer that is clinically detectable has, by definition, evaded immune-mediated destruction.
+
+T cell eradication of cancer cells displaying high numbers of neoantigens creates a selection pressure for cells displaying fewer neoantigens (i.e., ‘immunoediting’) [50].
+
+Furthermore, malignant tumours can create an immunosuppressive environment, for example, by expressing programmed death-ligand 1 (PD-L1) to downregulate the activity of cytotoxic T cells, as well as attracting Treg cells and secreting immunosuppressive cytokines [51].
+Immunotherapy aims to circumvent immune evasion by tumour cells and to induce immune-mediated tumour cell death.
+
+One of the earliest forms of immunotherapy deployed interleukin (IL)-2 [52], a T cell growth factor that stimulates expansion of cytotoxic T cells and natural killer cells [53].
+
+IL-2 is an effective therapy for metastatic melanoma and metastatic renal cell carcinoma, which has been approved for use in both cancers [52].
+
+More recently, immune checkpoint inhibitors have been developed, which block PD-L1 (e.g., durvalumab, atezolizumab), PD-1 (e.g., pembrolizumab, nivolumab), or CTLA-4 (e.g., ipilimumab), thereby preventing the suppression of cytotoxic T cells [54].
+
+These have proved highly effective in the treatment of CM and other cancers [55].
+
+The success of these inhibitors in a number of tumour types has led to a search for novel checkpoints—T cell immunoreceptor with Ig and ITIM domains (TIGIT) [56], T cell immunoglobulin and mucin domain-3 (TIM-3) [57] and lymphocyte-activation gene 3 (LAG-3) [58], which appear to be promising therapeutic targets.
+
+Other innovative approaches include a variety of adoptive T cell therapies, such as those using tumour-infiltrating lymphocytes (TIL) [59], engineered T cell receptors (TCRs) [60] and chimeric antigen receptors (CAR) on T cells [61].
+
+While CAR T cell therapies have been approved for use in haematological malignancies [62,63], and TIL therapy has shown promise in mUM [59], these forms of therapy are expensive and require a highly skilled team to prepare the tumour-specific cytotoxic T cells over several weeks [64,65,66].
+
+Furthermore, enhancement of adoptive T cell therapy by immunodepletion and high-dose IL-2 therapy can cause severe complications [67].
+
+Serious morbidity can also be caused by immune reactions against healthy tissues, the release of cytokines [68], and (in the case of CAR T cell therapy) anaphylaxis against murine antigens [69].
+
+Immune receptor agonists are another novel class of immunotherapies that promote signalling leading to immune-activation.
+
+These include CD122 agonists, which bind CD122 (the IL-2 receptor) and induce CD8+ T cell and natural killer cell expansion [70]; OX-40 agonists, which provide costimulatory signals to CD4+ and CD8+ T cells [71]; and glucocorticoid-induced tumour necrosis factor receptor family related gene (GITR) agonists, which reduce Treg-mediated immune suppression and activate CD8+ T cells [72].
+UMs have a number of features that make them less amenable to current immunotherapies. Algazi et al. performed a meta-analysis focusing on patients with mUM receiving immune checkpoint inhibitors against PD-1 and PD-L1, and reported an objective response rate (ORR) of only 3.6% and a median progression-free survival (PFS) as short as 2.6 months [41]. These poor results were confirmed by a meta-analysis by Khoja et al., which showed a median PFS of 2.8 months in patients receiving immunotherapies [42] Among the potential biological explanations for this limited efficacy is the finding that UM has one of the lowest tumour mutational burden amongst all cancers, therefore, the neoantigen display is limited [14,41,73,74].
+
+This might explain why checkpoint inhibitors, when tested in patients with mUM, have shown little clinical benefit [41].
+
+This is in contrast to CMs, which have a very high tumour mutational burden [73] and which show excellent responses to checkpoint inhibitors [75].
+
+Additionally, PD-L1 expression has been shown to positively correlate with responses to anti-PD-(L)1 inhibitors [73,76].
+
+Compared to metastatic CM, mUM tissue samples show lower PD-L1 expression [77], which might further account for the limited efficacy of checkpoint inhibitors in mUM.
+
+PD-L1 expression appears to be higher in primary UM than in liver lesions [78], which could explain recent results showing promising efficacy for pembrolizumab in patients without bulky liver lesions [74].
+
+However, as discussed previously, liver lesions are almost ubiquitous in mUM; therefore these data are compatible with the observed low response rate of checkpoint inhibitors in mUM.
+
+Overall, the low PD-L1 expression and low mutational burden in UM might explain the apparent lack of activity of checkpoint inhibitors in this tumour.
+
+Beyond checkpoint inhibition, Chandran et al. reported promising results in 2017 with autologous TIL and high-dose interleukin-2 in patients with mUM in a single-centre Phase II study; seven of 20 evaluable patients demonstrated objective tumour regression (35%; 95% CI: 16–59%), but this trial has since been terminated.
+
+Van Loenen et al. have developed a T-cell receptor-modified T cells targeting preferentially expressed antigen in melanoma (PRAME) [60] and Forsberg et al. have developed CAR-T cells that eradicate uveal melanoma cells in animal models [61]; however, to our knowledge no clinical results have yet been reported.
+
+5. Development of ImmTAC Molecules
+
+The ImmTAC (Immune-mobilising monoclonal TCRs against cancer) platform is a first-in-class immunotherapy platform with a novel mechanism of action (MoA).
+
+ImmTAC molecules bind cells that present a peptide derived from an antigen of interest, and recruit T cells to lyse the target cells [79].
+
+To achieve this, ImmTAC molecules are composed of a TCR targeting domain and a single-chain variable fragment (scFv) anti-CD3 effector domain.
+
+The TCR targeting domain binds peptides presented on the cell surface as a human leukocyte antigen (HLA)-peptide (pHLA) complex, while the anti-CD3 effector domain engages and activates CD3+ T cells (Figure 1) [79].
+
+Peptide antigens presented by HLA represent approximately 90% of the proteome, providing ImmTAC molecules with a large range of potential targets [80].
+
+The anti-CD3 domain allows ImmTAC molecules to engage T cells that are not specific for cancer cells.
+
+This redirection of T cells should enable ImmTAC molecules to overcome the shortcomings of immune checkpoint inhibitors in mUM, as checkpoint inhibitors require pre-existing cancer-specific T cells in order to induce cancer cell lysis [79].
+
+Immune-mobilising monoclonal T cell receptor against cancer (ImmTAC) molecule showing T cell receptor (TCR) targeting domain and effector anti-CD3 scFv.
+
+scFv—Single-chain variable fragment; TCR, T cell receptor.
+Native TCRs, which are membrane-bound, have an affinity for specific pHLA complexes typically in the range of 10–300 µM [81].
+
+To create a therapeutically efficacious ImmTAC molecule, three challenges had to be addressed—(a) producing a soluble TCR that was stable; (b) enhancing ImmTAC molecule affinity to tumour antigens; and (c) triggering an antitumour immune response.
+The native TCR is a heterodimer consisting of two transmembrane α and β chains linked by a membrane–proximal disulphide bond [82,83].
+
+While it is possible to produce a soluble TCR by removing the transmembrane elements of the two chains, this process breaks the disulphide bond so that the resulting heterodimer easily disassociates and is unable to bind its target [83].
+
+To overcome this issue, an artificial disulphide bond was created between the two chains by mutating two proximal residues to cysteine.
+
+This results in a soluble, stable TCR that forms the basis of ImmTAC molecule-targeting [79].
+Secondly, natural TCRs have a low affinity for their target antigens, with Kd values typically in the range of 10–300 µM [81].
+
+Increasing this affinity is essential for creating therapeutically useful TCRs, given that the target tumour cells can display as few as 10 pHLA complexes per cell [84].
+
+Additionally, soluble TCRs lack the avidity provided by co-receptor engagement in a normal T cell–tumour cell interaction, meaning higher affinity is needed for the soluble TCR to engage its target [79].
+
+By mutating the hypervariable regions of the TCR, affinity to target is increased 106-fold (resulting Kd in the picomolar range), without increasing cross-reactivity [85].
+
+In vitro, this increases the binding half-life of ImmTAC molecules to specific antigens, from seconds to hours [79,85,86].
+Thirdly, binding of the ImmTAC molecule to a cancer-associated antigen needs to be coupled to immune cell activation.
+
+This is achieved by creating a TCR-anti-CD3 scFv domain fusion protein, which engages the CD3 receptors on T cells, replicating a natural immune synapse.
+
+The anti-CD3 domain of an ImmTAC molecule has a nanomolar affinity for the CD3 receptor that is a 1000-fold weaker than the TCR domain, ensuring that the affinity for the pHLA complex drives ImmTAC molecule activity, rather than the ability to stimulate T cells through the CD3 receptor [79].
+The resulting ImmTAC molecule is a soluble, high-affinity TCR that targets a specific pHLA complex.
+
+Importantly, unlike adoptive T cell therapies, ImmTAC molecules are not patient-specific and as a result can be administered ‘off-the-shelf’, reducing the delay to patients and the need for specialised cellular manufacturing.
+
+However, they are currently only effective in patients expressing the specific HLA subtype that each ImmTAC molecule is designed to target, restricting their use to those patients.
+
+By binding a specific pHLA complex on the surface of tumour cells, the ImmTAC molecule can recruit CD3+ T cells (regardless of their native TCR-directed specificity), leading to lysis of the target cell.
+
+The intention behind the design of the ImmTAC platform was to mimic the immunological synapse that forms from native TCRs binding to pHLA complexes (Figure 2).
+
+Cytokine release by the T cell further stimulates the local immune response [79].
+Cancers 11 00971 g002 550Figure 2.
+
+ImmTAC molecules are designed to mimic the natural immune synapse formed by interaction of a TCR with a peptide-human-leukocyte-antigen (pHLA) complex.
+
+The anti-CD3 effector function attracts and binds to CD3 receptors (activating receptor) on T cell surfaces triggering T-cell mediated cancer cell lysis; HLA, Human leukocyte antigen; MHC, Major histocompatibility complex; TCR, T cell receptor.
+
+6. MoA of Tebentafusp
+
+Tebentafusp is an ImmTAC molecule that targets a fragment of the melanocytes lineage-specific antigen gp100280–288 (alternative names Melanocyte protein Pmel17, melanoma-associated ME20 antigen, ME20-M, [UniProtKB-P40967]) presented by 'HLA-A * 02:01' [87].
+
+The target, gp100, was first identified as melanoma associated by the isolation of melanoma-specific cytotoxic T lymphocytes that recognised gp100 fragments presented by HLA [88].
+
+Subsequent RNA expression analysis revealed that gp100 is expressed strongly in melanomas, weakly in normal melanocytes and minimally in non-melanocyte cells [89,90]. The gp100 fragment targeted by tebentafusp, gp100280–288, has particular affinity for the HLA-A subtype 'HLA-A * 02:01' [91]. The 'HLA-A * 02:01'–gp100280–288 peptide complex is, therefore, an attractive target for anti-melanoma therapy [89,90]; however, a limitation is that only about 50% of Caucasian individuals are 'HLA-A * 02:01' positive [92]. Based on its MoA, tebentafusp is not effective in 'HLA-A * 02:01'-negative patients.
+Preclinical data with tebentafusp supported a MoA based on T cell-mediated killing of gp100+/'HLA-A * 02:01'+ cell lines [93]. These data showed that when incubated with gp100+ cancer cell lines and tebentafusp, CD8+ T cells show lytic activity and cytokine production that are not seen in the absence of tebentafusp [94]. Furthermore, lytic activity is restricted to only gp100-positive and 'HLA-A * 02:01'-positive cancer cell lines (Figure 3) [94]. Further in vitro studies showed that antitumour activity is not restricted to CD8+ T cells, and that CD4+ T cells are also directed to lyse gp100+ cancer cell lines in the presence of tebentafusp [87]. Additionally, T cells engaged by tebentafusp secrete high levels of tumour necrosis factor α (TNFα), IL-2, IL-6 and interferon γ (IFNγ) [87]. TNFα and IFNγ are strong pro-inflammatory agents that further promote cancer cell apoptosis, attracting and activating lymphocytes and inducing maturation of dendritic cells in the process [87]. Furthermore, tebentafusp has been shown by in vitro studies to potentiate ‘epitope spreading’ whereby tumour-associated antigens released by apoptotic tumour cells are captured and displayed by dendritic cells, which then engage T cells to lyse more cancer cells [95].
+Cancers 11 00971 g003 550Figure 3. Images from time-lapse video microscopy taken in dose-response experiments in vitro conducted over a range of successive time points from 0–20 h showing tebentafusp (80 pM)-mediated killing of gp100-positive 'HLA-A * 02:01'-positive uveal melanoma (UM) cells (92-1; red) by CD8+ T cells (dark blue). Melanoma cells that are gp100-negative, 'HLA-A * 02:01'-positive—an HLA-matched control—(A375; pale blue) are ignored by CD8+ T cells. The main image (left) represents t = 0 in the assay and is captured with a 63× oil immersion objective on Zeiss Axiovert 200M inverted microscope. The areas of green shown in the time-lapse images on the right-hand side are a dye activated by active caspase 3/7 to bind DNA and fluoresce, highlighting cellular apoptosis as a direct result of on-target tebentafusp-mediated T-cell redirection. The times where apoptosis of the highlighted target cells are first observed are denoted on the right and the border colours correspond to the same colour square in the main (left) image. Note the change in morphology of the cells on the right in line with the observed apoptosis as indicated by the green dye; UM, uveal melanoma.
+Emerging from the preclinical data is a picture of the MoA of tebentafusp. On a molecular level, tebentafusp induces formation of an immune synapse between a T cell and a tumour cell to cause tumour lysis. T cells are activated in a polyclonal manner, regardless of the specificity of their native TCR. On a broader level, this process might be self-sustaining as the engaged T cells produce a range of pro-inflammatory cytokines, and the surrounding dendritic cells take up tumour-associated antigens from killed cells and present these to lymphocytes. Both these processes might further serve to amplify the immune response to tumours [87].
+7. Tebentafusp in Clinical Studies
+To date, two clinical studies with tebentafusp in UM have reported results (IMCgp100-01 and IMCgp100-102 phase I) [4,5], and there are still two ongoing trials (IMCgp100-102 phase II, IMCgp100-202; Figure 4).
+Cancers 11 00971 g004 550Figure 4. Clinical studies with tebentafusp in UM; 1L, First line; 2L, Second line; CM, Cutaneous melanoma; ORR, Objective response rate; RP2D, Recommended phase II dose; UM, Uveal melanoma.
+The IMCgp100-01 study was the first-in-human study of tebentafusp in patients with advanced or metastatic melanoma, who had received any number of prior therapies (N = 84; a cohort with UM was included, n = 16) [5]. The primary objective was to determine a recommended phase II dose for tebentafusp; safety and efficacy of the therapy were secondary objectives. Two partial responses in patients with mUM (14%; n = 14 evaluable) were observed, and eight patients (57%) with mUM achieved disease control for ≥ 16 weeks (5). In the metastatic CM cohort (n = 33 evaluable), two partial responses (6%) and six instances of a stable disease (18%) were observed [5]. These results were the first indication that tebentafusp had clinical activity in melanoma. Furthermore, this clinical activity was observed in mUM, which, as mentioned, is usually resistant to other forms of therapy. Based on this activity in mUM, IMCgp100-102 was initiated to study patients with mUM exclusively. To date, results are available for the phase I arm of this trial—3/17 (18%) patients achieved a partial response and 11/17 (65%) achieved disease control for ≥ 16 weeks [4]. These results underline the promising efficacy seen in the previous trial, and justify the investigation of tebentafusp as first-line therapy for mUM in the pivotal IMCgp100-202 trial.
+The safety profile of tebentafusp was consistent across both the IMCgp100-01 and IMCgp100-102 (phase I arm) studies. In both of these studies, the most frequent treatment-related adverse events (AEs) were in skin or were likely cytokine-mediated. Common events included rash, pruritus, dry skin, pyrexia, hypotension, periorbital oedema, fatigue, nausea and chills [4,5]. It is likely that these AEs represent on-target activity of tebentafusp, comprising skin-related AEs from targeting of gp100-positive melanocytes and cytokine-related AEs from tebentafusp-mediated cytokine release. Investigators report that these AEs are manageable with standard clinical interventions—intravenous fluids and corticosteroids have been used to treat hypotension; paracetamol and anti-histamines have been used to alleviate skin toxicities and pyrexia. Cytokine release syndrome (CRS) has been observed in tebentafusp clinical trials, with Grade ≥ 3 CRS reported by investigators in < 5% of patients. CRS was reversible through medical management, including corticosteroid therapy and select measures to address patient symptoms; no patient deaths from CRS have been observed [4,5].
+Based on investigator experience, treatment-related AEs with tebentafusp typically develop within 2–12 h, following the end of infusion, and generally abate within 48–72 h after onset, with or without treatment. They are also more common with the first three doses, with AEs appearing to be less frequent and less severe from the fourth dose onwards [96]. To minimise this toxicity, an intra-patient dose escalation regimen was introduced, based on the IMCgp100-01 trial—patients receive 20 µg tebentafusp on day 1, 30 µg on day 8 and 68 µg weekly, thereafter [4]. For the first three doses, patients are kept in hospital overnight for monitoring and treatment of any AEs.
+In light of the lack of efficacy shown by checkpoint inhibitors in mUM, the reported ORR of 14–18% and median PFS of 3.7–5.6 months with tebentafusp in mUM are encouraging (although the number of patients who have received tebentafusp and those for whom data are available is small; n = 34) [4,5,95]. Particularly encouraging is the overall survival (OS) data from the IMCgp100-01 and IMCgp100-102 trials, especially when compared with other studies in mUM (OS was a secondary endpoint in IMCgp100-01 and IMCgp100-102). Three meta-analyses have recently been published that investigate cohorts of patients with mUM (Table 2) [3,41,42]. These analyses considered a number of studies, covering a range of therapies in patients with mUM. None of these studies reported an OS rate at 1 year > 55% [3,41,42]. In contrast, the OS rates at 1 year in the IMCgp100-01 and IMCgp100-102 (phase I arm) studies were 73% (95% confidence interval [CI] 38–91) [95] and 74% (95% CI 48–88) [4], respectively (Figure 5).
+Cancers 11 00971 g005 550Figure 5. (A) OS in 19 patients with mUM receiving tebentafusp as part of the IMCgp100-102 trial [4]. (B) OS in 915 patients with mUM receiving immunotherapy, kinase inhibitors, anti-angiogenic therapy, chemotherapy or liver-directed therapy from 29 different trials [42]; KM, Kaplan–Meier; mUM, Metastatic uveal melanoma; OS, Overall survival.
+Table 2. Overall survival (OS) data with tebentafusp compared with results from three meta-analyses looking at a range of therapies for mUM.
+Table
+Interestingly, patients who experienced Grade ≥ 2 skin toxicities within 21 days of their first tebentafusp infusion, trended towards longer survival than patients who did not develop these AEs, and patients in the top three quartiles for reduction in arterial pressure trended towards longer survival than those in the lower quartile [4]. It is worth noting that these analyses were conducted in a small number of patients (n = 42) and need confirming in larger studies. However, the association is nevertheless interesting, and suggests that some of the more common AEs observed with tebentafusp reflect the ability of the patient’s immune system to mount effective immune responses.
+It is interesting to speculate on why tebentafusp shows promising activity in otherwise hard-to-treat mUM. There are two potential explanations—first, gp100 expression is particularly high in UM [97,98]. Preclinical studies with tebentafusp showed that target cells displaying a higher surface concentration [or density] of gp100 peptide-HLA complexes result in a greater degree of target cell lysis [93]. On the basis of this finding, it is reasonable to hypothesise that greater gp100 expression translates to a more efficient cancer cell killing in vivo. Second, UM appears to have a relatively non-T cell-inflamed genetic signature [74]. Non-T cell-inflamed tumours show a lower expression of genes associated with T cell infiltration and localised inflammation, compared with T cell-inflamed tumours [99]. This might be related to the lower mutational burden and low antigenicity of UM [73,74]. Lack of T cell inflammation might be a barrier to immune-mediated cancer destruction; therefore by recruiting T cells to antigen-positive sites and inducing an inflammatory response tebentafusp might overcome this barrier.
+8. Future Prospects
+Several studies with tebentafusp in both mUM and metastatic CM are ongoing. Recruitment for the dose expansion phase of IMCgp100-102 (a Phase II, single arm open-label study in previously treated patients with mUM) is complete, and the trial will further investigate the efficacy and safety of tebentafusp. IMCgp100-202 is a pivotal, randomised, controlled, open-label study of tebentafusp versus the physician’s choice of therapy (dacarbazine, ipilimumab [anti-CTLA-4] or pembrolizumab [anti-PD-1]) in previously untreated patients with mUM. This study is currently recruiting patients in a number of locations across North America, Europe and Australia. A study in metastatic CM of tebentafusp ± durvalumab (anti-PD-L1) ± tremelimumab (anti-CTLA-4) is also ongoing (IMCgp100-201; ClinicalTrials.gov Identifier: NCT02535078).
+There would seem to be a scope for investigating tebentafusp as an adjuvant therapy for patients whose genetic tumour profile indicates a high risk of developing metastatic disease. There might also be a scope for investigating tebentafusp as a neoadjuvant therapy for primary UM, to reduce the size of the tumour before radiotherapy or resection, hence minimising collateral damage to healthy ocular tissues.
+Beyond tebentafusp, a clear next step would be to produce additional anti-gp100 ImmTAC molecules that target other HLA subtypes, exploring the benefit of tebentafusp in patients who are 'HLA-A * 02:01'-negative. Furthermore, the encouraging data seen with tebentafusp suggest that an ImmTAC platform-based approach could bring benefit in other, non-UM settings, to patients who do not currently respond to immunotherapy. Key to bringing a benefit to other settings will be the identification of suitable peptide antigens for new ImmTAC molecules to target.
+
+9. Conclusions
+
+ImmTAC molecules are a first-in-kind therapeutic agent that re-directs T cells against cancer cells, avoiding the limitations of adoptive T cell therapy. Tebentafusp shows promising clinical activity in patients with mUM, with survival rates that appear superior to those reported with other treatments.
+Author Contributions
+
+All authors were fully responsible for all content and editorial decisions, were involved in all stages of manuscript development and approved the final version.
+
+Funding
+
+This research was funded by Immunocore Ltd., Abingdon, UK.
+
+Acknowledgments
+During the preparation of this manuscript, medical writing assistance (financially supported by Immunocore) was provided by Syneos Health UK. ‘ImmTAC’ is a registered trademark of Immunocore Ltd., Abingdon, UK.
+
+Conflicts of Interest
+Bertil Damato has received consulting fees from Immunocore. Rich Carvajal has received consulting fees and research funding to institution from Immunocore. Howard Goodall and Joseph Dukes are employees of Immunocore.
+
+References
+Kujala, E.; Makitie, T.; Kivelä, T. Very long-term prognosis of patients with malignant uveal melanoma. Investig. Ophthalmol. Vis. Sci. 2003, 44, 4651–4659. [Google Scholar] [CrossRef]
+
+Lorenzo, D.; Piulats, J.M.; Ochoa, M.; Arias, L.; Gutierrez, C.; Catala, J.; Cobos, E.; Garcia-Bru, P.; Dias, B.; Padron-Perez, N.; et al. Clinical predictors of survival in metastatic uveal melanoma. Jpn. J. Ophthalmol. 2019, 63, 197–209. [Google Scholar] [CrossRef]
+
+Rantala, E.S.; Hernberg, M.; Kivelä, T.T. Overall survival after treatment for metastatic uveal melanoma: A systematic review and meta-analysis. Melanoma Res. 2019. [Google Scholar] [CrossRef]
+
+Sato, T.; Nathan, P.D.; Hernandez-Aya, L.; Sacco, J.; Orloff, M.; Engler, F.; Little, N.; Hulstine, A.; Coughlin, C.; Carvajal, R.D. Redirected T cell mediated lysis in patients with metastatic uveal melanoma with gp100-directed TCR IMCgp100: Overall survival findings. In Proceedings of the American Society of Clinical Oncology Annual Meeting, Chicago, IL, USA, 1–5 June 2018. Poster 9521. [Google Scholar]
+
+Middleton, M.; Steven, N.; Evans, J.; Infante, J.; Sznol, M. Safety, pharmacokinetics and efficacy of IMCgp100, a first-in-class soluble TCR anti-CD3 bispecific T cell redirector with solid tumour activity: Results from the first in human study in melanoma. In Proceedings of the American Society of Clinical Oncology Annual Meeting, Chicago, IL, USA, 3–7 June 2016. Poster 3016. [Google Scholar]
+
+Damato, B. Progress in the management of patients with uveal melanoma. The 2012 Ashton Lecture. Eye 2012, 26, 1157–1172. [Google Scholar] [CrossRef] [Green Version]
+
+Rodríguez, A.; Dueñas-Gonzalez, A.; Delgado-Pelayo, S. Clinical presentation and management of uveal melanoma. Mol. Clin. Oncol. 2016, 5, 675–677. [Google Scholar] [CrossRef] [Green Version]
+
+Krantz, B.A.; Dave, N.; Komatsubara, K.M.; Marr, B.P.; Carvajal, R.D. Uveal melanoma: Epidemiology, etiology, and treatment of primary disease. Clin. Ophthalmol. 2017, 11, 279–289. [Google Scholar] [CrossRef]
+
+Singh, A.D.; Turell, M.E.; Topham, A.K. Uveal melanoma: Trends in incidence, treatment, and survival. Ophthalmology 2011, 118, 1881–1885. [Google Scholar] [CrossRef]
+
+Damato, B.E.; Coupland, S.E. Differences in uveal melanomas between men and women from the British Isles. Eye 2011, 26, 292. [Google Scholar] [CrossRef]
+
+Chua, V.; Lapadula, D.; Randolph, C.; Benovic, J.L.; Wedegaertner, P.B.; Aplin, A.E. Dysregulated GPCR Signaling and Therapeutic Options in Uveal Melanoma. Mol. Cancer Res. 2017, 15, 501–506. [Google Scholar] [CrossRef]
+
+Van den Bosch, T.; Kilic, E.; Paridaens, D.; de Klein, A. Genetics of uveal melanoma and cutaneous melanoma: Two of a kind? Derm. Res. Pract. 2010, 2010, 360136. [Google Scholar] [CrossRef]
+
+Reddy, B.Y.; Miller, D.M.; Tsao, H. Somatic driver mutations in melanoma. Cancer 2017, 123, 2104–2117. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+
+Helgadottir, H.; Höiom, V. The genetics of uveal melanoma: Current insights. Appl. Clin. Genet. 2016, 9, 147–155. [Google Scholar] [CrossRef] [PubMed]
+
+Damato, B. Ocular treatment of choroidal melanoma in relation to the prevention of metastatic death—A personal view. Prog. Retin. Eye Res. 2018, 66, 187–199. [Google Scholar] [CrossRef] [PubMed]
+
+Stannard, C.; Sauerwein, W.; Maree, G.; Lecuona, K. Radiotherapy for ocular tumours. Eye 2013, 27, 119–127. [Google Scholar] [CrossRef] [PubMed]
+
+Damato, B.E.; Stewart, J.M.; Afshar, A.R.; Groenewald, C.; Foulds, W.S. Surgical resection of choroidal melanoma. In Ryan’s Retina, 6th ed.; Elsevier: Edinburgh, UK, 2018; Volume 3, pp. 2591–2600. [Google Scholar]
+
+Damato, B.; Lecuona, K. Conservation of eyes with choroidal melanoma by a multimodality approach to treatment: An audit of 1632 patients. Ophthalmology 2004, 111, 977–983. [Google Scholar] [CrossRef]
+
+Damato, B. Vasculopathy after treatment of choroidal melanoma. In Retinal Vascular Disease; Springer: Berlin, Germany, 2007. [Google Scholar]
+
+Damato, B.; Hope-Stone, L.; Cooper, B.; Brown, S.L.; Salmon, P.; Heimann, H.; Dunn, L.B. Patient-reported outcomes and quality of life after treatment of choroidal melanoma: A comparison of enucleation versus radiotherapy in 1596 patients. Am. J. Ophthalmol. 2018, 193, 230–251. [Google Scholar] [CrossRef] [PubMed]
+
+Collaborative Ocular Melanoma Study Quality of Life Study Group. Quality of life after iodine 125 brachytherapy vs enucleation for choroidal melanoma: 5-year results from the collaborative ocular melanoma study: COMS QOLS Report No. 3. JAMA Ophthalmol. 2006, 124, 226–238. [Google Scholar] [CrossRef]
+
+Collaborative Ocular Melanoma Study Group. The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors: COMS report No. 28. Arch. Ophthalmol. 2006, 124, 1684–1693. [Google Scholar] [CrossRef]
+
+Damato, B. Legacy of the collaborative ocular melanoma study. Arch. Ophthalmol. 2007, 125, 966–968. [Google Scholar] [CrossRef]
+
+Marshall, E.; Romaniuk, C.; Ghaneh, P.; Wong, H.; McKay, M.; Chopra, M.; Coupland, S.E.; Damato, B.E. MRI in the detection of hepatic metastases from high-risk uveal melanoma: A prospective study in 188 patients. Br. J. Ophthalmol. 2013, 97, 159–163. [Google Scholar] [CrossRef]
+
+Damato, B.; Eleuteri, A.; Taktak, A.F.; Coupland, S.E. Estimating prognosis for survival after treatment of choroidal melanoma. Prog. Retin. Eye Res. 2011, 30, 285–295. [Google Scholar] [CrossRef]
+
+Robertson, A.G.; Shih, J.; Yau, C.; Gibb, E.A.; Oba, J.; Mungall, K.L.; Hess, J.M.; Uzunangelov, V.; Walter, V.; Danilova, L.; et al. Integrative analysis identifies four molecular and clinical subsets in uveal melanoma. Cancer Cell 2018, 33, 151. [Google Scholar] [CrossRef]
+
+Dogrusöz, M.; Jager, M.J. Genetic prognostication in uveal melanoma. Acta Ophthalmol. 2018, 96, 331–347. [Google Scholar] [CrossRef]
+
+Damato, B.; Duke, C.; Coupland, S.E.; Hiscott, P.; Smith, P.A.; Campbell, I.; Douglas, A.; Howard, P. Cytogenetics of uveal melanoma: A 7-year clinical experience. Ophthalmology 2007, 114, 1925–1931. [Google Scholar] [CrossRef]
+
+Eleuteri, A.; Taktak, A.F.G.; Coupland, S.E.; Heimann, H.; Kalirai, H.; Damato, B. Prognostication of metastatic death in uveal melanoma patients: A Markov multi-state model. Comput. Biol. Med. 2018, 102, 151–156. [Google Scholar] [CrossRef]
+
+Christopher, A.B.; April, K.S. New NCCN Guidelines for uveal melanoma and treatment of recurrent or progressive distant metastatic melanoma. J. Natl. Compr. Cancer Netw. 2018, 16, 646–650. [Google Scholar] [CrossRef]
+
+Gomez, D.; Wetherill, C.; Cheong, J.; Jones, L.; Marshall, E.; Damato, B.; Coupland, S.E.; Ghaneh, P.; Poston, G.J.; Malik, H.Z.; et al. The Liverpool uveal melanoma liver metastases pathway: Outcome following liver resection. J. Surg. Oncol. 2014, 109, 542–547. [Google Scholar] [CrossRef]
+
+Leyvraz, S.; Piperno-Neumann, S.; Suciu, S.; Baurain, J.F.; Zdzienicki, M.; Testori, A.; Marshall, E.; Scheulen, M.; Jouary, T.; Negrier, S.; et al. Hepatic intra-arterial versus intravenous fotemustine in patients with liver metastases from uveal melanoma (EORTC 18021): A multicentric randomized trial. Ann. Oncol. 2014, 25, 742–746. [Google Scholar] [CrossRef]
+
+Pinqpank, J.; Hughes, M.; Alexander, H.; Faries, M.; Zager, J.; Siskin, G.; Agarwala, S.; Whitman, E.; Nutting, C.; Ozkan, O. Percutaneous hepatic perfusion (PHP) vs. best alternative care (BAC) for patients (pts) with melanoma liver metastases–efficacy update of the Phase 3 trial (NCT00324727). Eur. J. Cancer 2011, 47, S653. [Google Scholar] [CrossRef]
+
+Karydis, I.; Gangi, A.; Wheater, M.J.; Choi, J.; Wilson, I.; Thomas, K.; Pearce, N.; Takhar, A.; Gupta, S.; Hardman, D.; et al. Percutaneous hepatic perfusion with melphalan in uveal melanoma: A safe and effective treatment modality in an orphan disease. J. Surg. Oncol. 2018, 117, 1170–1178. [Google Scholar] [CrossRef]
+
+Carvajal, R.D.; Schwartz, G.K.; Tezel, T.; Marr, B.; Francis, J.H.; Nathan, P.D. Metastatic disease from uveal melanoma: Treatment options and future prospects. Br. J. Ophthalmol. 2017, 101, 38–44. [Google Scholar] [CrossRef] [PubMed]
+
+Scheulen, M.E.; Kaempgen, E.; Keilholz, U.; Heinzerling, L.; Ochsenreither, S.; Abendroth, A.; Hilger, R.A.; Grubert, M.; Wetter, A.; Guberina, N.; et al. STREAM: A randomized discontinuation, blinded, placebo-controlled phase II study of sorafenib (S) treatment of chemonaïve patients (pts) with metastatic uveal melanoma (MUM). J. Clin. Oncol. 2017, 35, 9511. [Google Scholar] [CrossRef]
+
+Carvajal, R.D.; Piperno-Neumann, S.; Kapiteijn, E.; Chapman, P.B.; Frank, S.; Joshua, A.M.; Piulats, J.M.; Wolter, P.; Cocquyt, V.; Chmielowski, B.; et al. Selumetinib in combination with dacarbazine in patients with metastatic uveal melanoma: A Phase III, multicenter, randomized trial (SUMIT). J. Clin. Oncol. 2018, 36, 1232–1239. [Google Scholar] [CrossRef] [PubMed]
+
+Carvajal, R.D.; Sosman, J.A.; Quevedo, J.F.; Milhem, M.M.; Joshua, A.M.; Kudchadkar, R.R.; Linette, G.P.; Gajewski, T.F.; Lutzky, J.; Lawson, D.H.; et al. Effect of selumetinib vs chemotherapy on progression-free survival in uveal melanoma: A randomized clinical trial. JAMA 2014, 311, 2397–2405. [Google Scholar] [CrossRef] [PubMed]
+
+Falchook, G.S.; Lewis, K.D.; Infante, J.R.; Gordon, M.S.; Vogelzang, N.J.; DeMarini, D.J.; Sun, P.; Moy, C.; Szabo, S.A.; Roadcap, L.T.; et al. Activity of the oral MEK inhibitor trametinib in patients with advanced melanoma: A phase 1 dose-escalation trial. Lancet Oncol. 2012, 13, 782–789. [Google Scholar] [CrossRef]
+
+Sacco, J.J.; Nathan, P.D.; Danson, S.; Lorigan, P.; Nicholson, S.; Ottensmeier, C.; Corrie, P.; Steven, N.; Goodman, A.; Larkin, J.M.G.; et al. Sunitinib versus dacarbazine as first-line treatment in patients with metastatic uveal melanoma. J. Clin. Oncol. 2013, 31, 9031. [Google Scholar] [CrossRef]
+
+Algazi, A.P.; Tsai, K.K.; Shoushtari, A.N.; Munhoz, R.R.; Eroglu, Z.; Piulats, J.M.; Ott, P.A.; Johnson, D.B.; Hwang, J.; Daud, A.I.; et al. Clinical outcomes in metastatic uveal melanoma treated with PD-1 and PD-L1 antibodies. Cancer 2016, 122, 3344–3353. [Google Scholar] [CrossRef] [PubMed]
+
+Khoja, L.; Atenafu, E.G.; Suciu, S.; Leyvraz, S.; Sato, T.; Marshall, E.; Keilholz, U.; Zimmer, L.; Patel, S.P.; Piperno-Neumann, S.; et al. Meta-analysis in metastatic uveal melanoma to determine progression-free and overall survival benchmarks: An International Rare Cancers Initiative (IRCI) ocular melanoma study. Ann. Oncol. 2019. [Google Scholar] [CrossRef]
+
+Coley, W.B. The Treatment of Malignant Tumors by Repeated Innoculations of Erysipelas: With a Report of Ten Original Cases. Am. J. Med Sci. 1893, 10, 487–511. [Google Scholar] [CrossRef]
+
+Hanahan, D.; Weinberg, R.A. The hallmarks of cancer. Cell 2000, 100, 57–70. [Google Scholar] [CrossRef]
+
+Hanahan, D.; Weinberg, R.A. Hallmarks of cancer: The next generation. Cell 2011, 144, 646–674. [Google Scholar] [CrossRef]
+
+Schumacher, T.N.; Schreiber, R.D. Neoantigens in cancer immunotherapy. Science 2015, 348, 69–74. [Google Scholar] [CrossRef] [Green Version]
+Xing, Y.; Hogquist, K.A. T-cell tolerance: Central and peripheral. Cold Spring Harb. Perspect. Biol. 2012, 4. [Google Scholar] [CrossRef]
+Domogalla, M.P.; Rostan, P.V.; Raker, V.K.; Steinbrink, K. Tolerance through education: How tolerogenic dendritic cells shape immunity. Front. Immunol. 2017, 8, 1764. [Google Scholar] [CrossRef]
+Intlekofer, A.M.; Thompson, C.B. At the bench: Preclinical rationale for CTLA-4 and PD-1 blockade as cancer immunotherapy. J. Leukoc. Biol. 2013, 94, 25–39. [Google Scholar] [CrossRef]
+Dunn, G.P.; Bruce, A.T.; Ikeda, H.; Old, L.J.; Schreiber, R.D. Cancer immunoediting: From immunosurveillance to tumor escape. Nat. Immunol. 2002, 3, 991–998. [Google Scholar] [CrossRef]
+Davoodzadeh Gholami, M.; Kardar, G.A.; Saeedi, Y.; Heydari, S.; Garssen, J.; Falak, R. Exhaustion of T lymphocytes in the tumor microenvironment: Significance and effective mechanisms. Cell. Immunol. 2017, 322, 1–14. [Google Scholar] [CrossRef]
+Jiang, T.; Zhou, C.; Ren, S. Role of IL-2 in cancer immunotherapy. Oncoimmunology 2016, 5, e1163462. [Google Scholar] [CrossRef] [Green Version]
+Margolin, K.A. Interleukin-2 in the treatment of renal cancer. Semin. Oncol. 2000, 27, 194–203. [Google Scholar]
+Darvin, P.; Toor, S.M.; Sasidharan Nair, V.; Elkord, E. Immune checkpoint inhibitors: Recent progress and potential biomarkers. Exp. Mol. Med. 2018, 50, 165. [Google Scholar] [CrossRef]
+Yun, S.; Vincelette, N.D.; Green, M.R.; Wahner Hendrickson, A.E.; Abraham, I. Targeting immune checkpoints in unresectable metastatic cutaneous melanoma: A systematic review and meta-analysis of anti-CTLA-4 and anti-PD-1 agents trials. Cancer Med. 2016, 5, 1481–1491. [Google Scholar] [CrossRef] [PubMed]
+Guillerey, C.; Harjunpaa, H.; Carrie, N.; Kassem, S.; Teo, T.; Miles, K.; Krumeich, S.; Weulersse, M.; Cuisinier, M.; Stannard, K.; et al. TIGIT immune checkpoint blockade restores CD8(+) T-cell immunity against multiple myeloma. Blood 2018, 132, 1689–1694. [Google Scholar] [CrossRef] [PubMed]
+He, Y.; Cao, J.; Zhao, C.; Li, X.; Zhou, C.; Hirsch, F.R. TIM-3, a promising target for cancer immunotherapy. Onco Targets Ther. 2018, 11, 7005–7009. [Google Scholar] [CrossRef] [PubMed]
+Lichtenegger, F.S.; Rothe, M.; Schnorfeil, F.M.; Deiser, K.; Krupka, C.; Augsberger, C.; Schlüter, M.; Neitz, J.; Subklewe, M. Targeting LAG-3 and PD-1 to enhance T cell activation by antigen-presenting cells. Front. Immunol. 2018, 9, 385. [Google Scholar] [CrossRef] [PubMed]
+Chandran, S.S.; Somerville, R.P.T.; Yang, J.C.; Sherry, R.M.; Klebanoff, C.A.; Goff, S.L.; Wunderlich, J.R.; Danforth, D.N.; Zlott, D.; Paria, B.C.; et al. Treatment of metastatic uveal melanoma with adoptive transfer of tumour-infiltrating lymphocytes: A single-centre, two-stage, single-arm, phase 2 study. Lancet Oncol. 2017, 18, 792–802. [Google Scholar] [CrossRef]
+Van Loenen, M.M.; de Boer, R.; Hagedoorn, R.S.; Jankipersadsing, V.; Amir, A.L.; Falkenburg, J.H.; Heemskerk, M.H. Multi-cistronic vector encoding optimized safety switch for adoptive therapy with T-cell receptor-modified T cells. Gene Ther. 2013, 20, 861–867. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+Forsberg, E.M.V.; Lindberg, M.F.; Jespersen, H.; Alsén, S.; Olofsson Bagge, R.; Donia, M.; Svane, I.M.; Nilsson, O.; Ny, L.; Nilsson, L.M.; et al. HER2 CAR-T cells eradicate uveal melanoma and T cell therapy-resistant human melanoma in interleukin-2 (IL-2) transgenic NOD/SCID IL-2 receptor knockout mice. Cancer Res. 2019, 79, 899–904. [Google Scholar] [CrossRef] [PubMed]
+Novartis. KYMRIAH Prescribing Information. Available online: https://www.pharma.us.novartis.com/sites/www.pharma.us.novartis.com/files/kymriah.pdf (accessed on 9 July 2019).
+Kite Pharma. YESCARTA Prescribing Information. Available online: https://www.yescarta.com/files/yescarta-pi.pdf (accessed on 9 July 2019).
+Retèl, V.P.; Steuten, L.M.G.; Geukes Foppen, M.H.; Mewes, J.C.; Lindenberg, M.A.; Haanen, J.B.A.G.; van Harten, W.H. Early cost-effectiveness of tumor infiltrating lymphocytes (TIL) for second line treatment in advanced melanoma: A model-based economic evaluation. BMC Cancer 2018, 18, 895. [Google Scholar] [CrossRef] [PubMed]
+Sharpe, M.; Mount, N. Genetically modified T cells in cancer therapy: Opportunities and challenges. Dis. Model. Mech. 2015, 8, 337–350. [Google Scholar] [CrossRef]
+Jung, I.-Y.; Lee, J. Unleashing the therapeutic potential of CAR-T cell therapy using gene-editing technologies. Mol. Cells 2018, 41, 717–723. [Google Scholar] [CrossRef]
+Kalos, M.; June, C.H. Adoptive T cell transfer for cancer immunotherapy in the era of synthetic biology. Immunity 2013, 39, 49–60. [Google Scholar] [CrossRef] [PubMed]
+Milone, M.C.; Bhoj, V.G. The pharmacology of T cell therapies. Mol. Ther. Methods Clin. Dev. 2018, 8, 210–221. [Google Scholar] [CrossRef] [PubMed]
+Maus, M.V.; Haas, A.R.; Beatty, G.L.; Albelda, S.M.; Levine, B.L.; Liu, X.; Zhao, Y.; Kalos, M.; June, C.H. T cells expressing chimeric antigen receptors can cause anaphylaxis in humans. Cancer Immunol. Res. 2013, 1, 26–31. [Google Scholar] [CrossRef] [PubMed]
+Diab, A.; Bernatchez, C.; Haymaker, C.; Wong, M.K.K.; Hwu, P.; Bentebibel, S.E.; Cho, D.; Tykodi, S.S.; Puzanov, I.; Kluger, H.; et al. 1212TiPPIVOT-02: A phase 1/2, open-label, multicenter, dose escalation and dose expansion study of NKTR-214 and nivolumab in patients with select, locally advanced or metastatic solid tumor malignancies. Ann. Oncol. 2017, 28. [Google Scholar] [CrossRef]
+Weinberg, A.D.; Morris, N.P.; Kovacsovics-Bankowski, M.; Urba, W.J.; Curti, B.D. Science gone translational: The OX40 agonist story. Immunol. Rev. 2011, 244, 218–231. [Google Scholar] [CrossRef]
+Knee, D.A.; Hewes, B.; Brogdon, J.L. Rationale for anti-GITR cancer immunotherapy. Eur. J. Cancer 2016, 67, 1–10. [Google Scholar] [CrossRef] [Green Version]
+Yarchoan, M.; Hopkins, A.; Jaffee, E.M. Tumor mutational burden and response rate to PD-1 inhibition. N. Engl. J. Med. 2017, 377, 2500–2501. [Google Scholar] [CrossRef]
+Johnson, D.B.; Bao, R.; Ancell, K.K.; Daniels, A.B.; Wallace, D.; Sosman, J.A.; Luke, J.J. Response to anti-PD-1 in uveal melanoma without high-volume liver metastasis. J. Natl. Compr. Cancer Netw. 2019, 17, 114–117. [Google Scholar] [CrossRef]
+Karlsson, A.K.; Saleh, S.N. Checkpoint inhibitors for malignant melanoma: A systematic review and meta-analysis. Clin. Cosmet. Investig. Dermatol. 2017, 10, 325–339. [Google Scholar] [CrossRef]
+Shen, X.; Zhao, B. Efficacy of PD-1 or PD-L1 inhibitors and PD-L1 expression status in cancer: Meta-analysis. BMJ 2018, 362, k3529. [Google Scholar] [CrossRef]
+Javed, A.; Arguello, D.; Johnston, C.; Gatalica, Z.; Terai, M.; Weight, R.M.; Orloff, M.; Mastrangelo, M.J.; Sato, T. PD-L1 expression in tumor metastasis is different between uveal melanoma and cutaneous melanoma. Immunotherapy 2017, 9, 1323–1330. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+Terai, M.; Mastrangleo, M.J.; Sato, T. Immunological aspect of the liver and metastatic uveal melanoma. J. Cancer Metastasis Treat. 2017, 3, 231–243. [Google Scholar] [CrossRef]
+Oates, J.; Hassan, N.J.; Jakobsen, B.K. ImmTACs for targeted cancer therapy: Why, what, how, and which. Mol. Immunol. 2015, 67, 67–74. [Google Scholar] [CrossRef] [PubMed]
+De Souza, J.E.; Galante, P.A.; de Almeida, R.V.; da Cunha, J.P.; Ohara, D.T.; Ohno-Machado, L.; Old, L.J.; de Souza, S.J. SurfaceomeDB: A cancer-orientated database for genes encoding cell surface proteins. Cancer Immun. 2012, 12, 15. [Google Scholar] [PubMed]
+Stone, J.D.; Kranz, D.M. Role of T cell receptor affinity in the efficacy and specificity of adoptive T cell therapies. Front. Immunol. 2013, 4, 244. [Google Scholar] [CrossRef] [PubMed]
+Davis, M.M.; Boniface, J.J.; Reich, Z.; Lyons, D.; Hampl, J.; Arden, B.; Chien, Y. Ligand recognition by alpha beta T cell receptors. Annu. Rev. Immunol. 1998, 16, 523–544. [Google Scholar] [CrossRef] [PubMed]
+Pecorari, F.; Tissot, A.C.; Plückthun, A. Folding, heterodimeric association and specific peptide recognition of a murine αβ T-cell receptor expressed in Escherichia coli. J. Mol. Biol. 1999, 285, 1831–1843. [Google Scholar] [CrossRef]
+Bossi, G.; Gerry, A.B.; Paston, S.J.; Sutton, D.H.; Hassan, N.J.; Jakobsen, B.K. Examining the presentation of tumor-associated antigens on peptide-pulsed T2 cells. Oncoimmunology 2013, 2, e26840. [Google Scholar] [CrossRef] [Green Version]
+Li, Y.; Moysey, R.; Molloy, P.E.; Vuidepot, A.L.; Mahon, T.; Baston, E.; Dunn, S.; Liddy, N.; Jacob, J.; Jakobsen, B.K.; et al. Directed evolution of human T-cell receptors with picomolar affinities by phage display. Nat. Biotechnol. 2005, 23, 349–354. [Google Scholar] [CrossRef]
+Dunn, S.M.; Rizkallah, P.J.; Baston, E.; Mahon, T.; Cameron, B.; Moysey, R.; Gao, F.; Sami, M.; Boulter, J.; Li, Y.; et al. Directed evolution of human T cell receptor CDR2 residues by phage display dramatically enhances affinity for cognate peptide-MHC without increasing apparent cross-reactivity. Protein Sci. 2006, 15, 710–721. [Google Scholar] [CrossRef] [Green Version]
+Boudousquie, C.; Bossi, G.; Hurst, J.M.; Rygiel, K.A.; Jakobsen, B.K.; Hassan, N.J. Polyfunctional response by ImmTAC (IMCgp100) redirected CD8(+) and CD4(+) T cells. Immunology 2017, 152, 425–438. [Google Scholar] [CrossRef] [PubMed]
+Bakker, A.B.; Schreurs, M.W.; de Boer, A.J.; Kawakami, Y.; Rosenberg, S.A.; Adema, G.J.; Figdor, C.G. Melanocyte lineage-specific antigen gp100 is recognized by melanoma-derived tumor-infiltrating lymphocytes. J. Exp. Med. 1994, 179, 1005–1009. [Google Scholar] [CrossRef] [PubMed]
+Crabb, W.J.; Hu, B.; Crabb, J.S.; Triozzi, P.; Sauntharajah, Y.; Tubbs, R.; Singh, A.D. iTRAQ Quantitative Proteomic Comparison of Metastatic and Non-Metastic Uveal Melanoma Tumors. PLoS ONE 2015, 10. [Google Scholar] [CrossRef] [PubMed]
+Wagner, S.N.; Wagner, C.; Schultewolter, T.; Goos, M. Analysis of Pmel17/gp100 expression in primary human tissue specimens: Implications for melanoma immuno- and gene-therapy. Cancer Immunol. Immunother. 1997, 44, 239–247. [Google Scholar] [CrossRef] [PubMed]
+Skipper, J.C.; Gulden, P.H.; Hendrickson, R.C.; Harthun, N.; Caldwell, J.A.; Shabanowitz, J.; Engelhard, V.H.; Hunt, D.F.; Slingluff, C.L., Jr. Mass-spectrometric evaluation of HLA-A*0201-associated peptides identifies dominant naturally processed forms of CTL epitopes from MART-1 and gp100. Int. J. Cancer 1999, 82, 669–677. [Google Scholar] [CrossRef]
+Marincola, F.M.; Venzon, D.; White, D.; Rubin, J.T.; Lotze, M.T.; Simonis, T.B.; Balkissoon, J.; Rosenberg, S.A.; Parkinson, D.R. HLA association with response and toxicity in melanoma patients treated with interleukin 2-based immunotherapy. Cancer Res. 1992, 52, 6561–6566. [Google Scholar] [PubMed]
+
+Harper, J.; Adams, K.J.; Bossi, G.; Wright, D.E.; Stacey, A.R.; Bedke, N.; Martinez-Hague, R.; Blat, D.; Humbert, L.; Buchanan, H.; et al. An approved in vitro approach to preclinical safety and efficacy evaluation of engineered T cell receptor anti-CD3 bispecific (ImmTAC) molecules. PLoS ONE 2018, 13. [Google Scholar] [CrossRef]
+
+Liddy, N.; Bossi, G.; Adams, K.J.; Lissina, A.; Mahon, T.M.; Hassan, N.J.; Gavarret, J.; Bianchi, F.C.; Pumphrey, N.J.; Ladell, K.; et al. Monoclonal TCR-redirected tumor cell killing. Nat. Med. 2012, 18, 980–987. [Google Scholar] [CrossRef] [PubMed]
+
+Bossi, G.; Buisson, S.; Oates, J.; Jakobsen, B.K.; Hassan, N.J. ImmTAC-redirected tumour cell killing induces and potentiates antigen cross-presentation by dendritic cells. Cancer Immunol. Immunother. 2014, 63, 437–448. [Google Scholar] [CrossRef]
+
+Carvajal, R.D.; Sato, T.; Shoushtari, A.N.; Sacco, J.; Nathan, P.; Orloff, M.; Corrie, P.; Steven, N.; Evans, J.; Infante, J.; et al. Safety, efficacy and biology of the gp100 TCR-based bispecific T cell redirector, IMCgp100 in advanced uveal melanoma in two Phase 1 trials. In Proceedings of the Society for Immunotherapy of Cancer Annual Meeting, National Harbor, MD, USA, 8–12 November 2017. Poster P208. [Google Scholar]
+
+de Vries, T.J.; Trancikova, D.; Ruiter, D.J.; van Muijen, G.N. High expression of immunotherapy candidate proteins gp100, MART-1, tyrosinase and TRP-1 in uveal melanoma. Br. J. Cancer 1998, 78, 1156–1161. [Google Scholar] [CrossRef] [Green Version]
+
+Luyten, G.P.; van der Spek, C.W.; Brand, I.; Sintnicolaas, K.; de Waard-Siebinga, I.; Jager, M.J.; de Jong, P.T.; Schrier, P.I.; Luider, T.M. Expression of MAGE, gp100 and tyrosinase genes in uveal melanoma cell lines. Melanoma Res. 1998, 8, 11–16. [Google Scholar] [CrossRef] [PubMed]
+
+Trujillo, J.A.; Sweis, R.F.; Bao, R.; Luke, J.J. T cell-inflamed versus non-T cell-inflamed tumors: A conceptual framework for cancer immunotherapy drug development and combination therapy selection. Cancer Immunol. Res. 2018, 6, 990–1000. [Google Scholar] [CrossRef] [PubMed]
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+Share and Cite
+      
+MDPI and ACS Style
+Damato, B.E.; Dukes, J.; Goodall, H.; Carvajal, R.D. Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma. Cancers 2019, 11, 971. https://doi.org/10.3390/cancers11070971
+
+AMA Style
+Damato BE, Dukes J, Goodall H, Carvajal RD. Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma. Cancers. 2019; 11(7):971. https://doi.org/10.3390/cancers11070971
+
+Chicago/Turabian Style
+Damato, Bertil E., Joseph Dukes, Howard Goodall, and Richard D. Carvajal. 2019. "Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma" Cancers 11, no. 7: 971. https://doi.org/10.3390/cancers11070971
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+Article Metrics
+Citations
+Crossref
+ 68
+Scopus
+ 81
+Web of Science
+ 69
+PubMed
+ 45
+PMC
+ 45
+Google Scholar
+ [click to view]
+Article Access Statistics
+For more information on the journal statistics, click here.
+Multiple requests from the same IP address are counted as one view.
+Cancers, EISSN 2072-6694, Published by MDPI RSS Content Alert
+Further Information
+Article Processing Charges
+Pay an Invoice
+Open Access Policy
+Contact MDPI
+Jobs at MDPI
+Guidelines
+For Authors
+For Reviewers
+For Editors
+For Librarians
+For Publishers
+For Societies
+For Conference Organizers
+MDPI Initiatives
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+Follow MDPI
+LinkedIn
+Facebook
+Twitter
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+Select options
+Enter your email address...
+ Subscribe
+© 1996-2024 MDPI (Basel, Switzerland) unless otherwise statedDisclaimer Terms and Conditions Privacy Policy
+Back to Top
