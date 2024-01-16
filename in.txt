@@ -10,13 +10,37 @@ Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma
 
 # Abstract
 
+#+begin_ai
+What is the purpose of the following sentence in a review paper about uveal melanoma?
 Metastatic disease from uveal melanoma occurs in almost 50% of patients suffering from this ocular tumour, with median survival from development of symptoms being around 1 year.
 
-In contrast to cutaneous melanoma, kinase inhibitors and immune checkpoint inhibitors are usually ineffective in patients with metastatic uveal melanoma.
+[AI]: The purpose of this sentence is to provide important information about the severity and prognosis of uveal melanoma, specifically its metastasis and survival rate. This sets the context for the review paper as to why understanding, treating, and researching this particular cancer is critical.
 
-Tebentafusp is a novel form of immunotherapy based on the immune-mobilising monoclonal T cell receptor against cancer (ImmTAC) platform, which comprises a soluble T cell receptor that is fused to an anti-CD3 single-chain variable fragment.
+[ME]: How can I write a prompt for an LLM that will make this sentence, but for a different cancer?
 
-The T cell receptor domain of tebentafusp targets cells present a human leukocyte antigen-A*02:01 complexed with a peptide derived from the melanoma-associated antigen gp100, which is expressed strongly by melanoma cells, weakly by normal melanocytes and minimally by other tissues.
+[AI]: "What is the occurrence rate and median survival time for patients suffering from metastatic pancreatic cancer?"
+
+[ME]: Please do the same for the following sentence:  In contrast to cutaneous melanoma, kinase inhibitors and immune checkpoint inhibitors are usually ineffective in patients with metastatic uveal melanoma.
+
+
+[AI]: "How does the efficacy of kinase inhibitors and immune checkpoint inhibitors in treating metastatic lung cancer differ from their use in other types of cancer?"
+
+[ME]: Please do the same for this sentence, but for pancreatic cancer: Tebentafusp is a novel form of immunotherapy based on the immune-mobilising monoclonal T cell receptor against cancer (ImmTAC) platform, which comprises a soluble T cell receptor that is fused to an anti-CD3 single-chain variable fragment.
+
+
+[AI]: "How is the novel immunotherapy approach, such as ImmTAC platform like Tebentafusp, applied to the treatment of pancreatic cancer? And how does it function by fusing a soluble T cell receptor to an anti-CD3 single-chain variable fragment?"
+
+[ME]: Please do the same for: The T cell receptor domain of tebentafusp targets cells present a human leukocyte antigen-A*02:01 complexed with a peptide derived from the melanoma-associated antigen gp100, which is expressed strongly by melanoma cells, weakly by normal melanocytes and minimally by other tissues.
+
+
+[AI]: "How does the T cell receptor domain of a specific immunotherapy target cells in pancreatic cancer? Is it similar to tebentafusp's method of targeting cells that present a human leukocyte antigen-A*02:01 complexed with a peptide derived from a cancer-associated antigen, which is highly expressed by cancer cells, moderately by normal cells and minimally by other tissues?"
+
+[ME]: 
+#+end_ai
+
+
+
+
 
 The [[anti-cd3|anti-CD3]] domain recruits [[cd3|CD3+]] [[t-cell|T cells]] (and, indirectly, other immune cells), redirecting these to the melanoma cells.
 
@@ -28,7 +52,27 @@ Based on these encouraging results, a randomised study comparing tebentafusp to 
 
 # 1. Introduction
 
-Almost 50% of patients with uveal melanoma (UM) develop metastatic disease (i.e., mqetastatic uveal melanoma (mUM)), despite successful treatment of the primary ocular tumour.
+#+begin_ai
+What is the purpose of the following sentence in a review paper about uveal melanoma? Almost 50% of patients with uveal melanoma (UM) develop metastatic disease (i.e., mqetastatic uveal melanoma (mUM)), despite successful treatment of the primary ocular tumour.
+
+
+[AI]: The purpose of this sentence is to highlight the prevalence and severity of metastatic disease in patients who have uveal melanoma, even after seemingly successful treatment of the initial tumor. This underscores the need for further research and potential improvements in treatment strategies.
+
+[ME]: What would be a good prompt to highlight these things for pancreatic cancer?
+
+[AI]: A significant proportion of pancreatic cancer patients, unfortunately, experience metastasis (the spread of cancer to other parts of the body), despite successful initial treatment and intervention of the primary pancreatic tumor. This points to the aggressive nature of pancreatic cancer and the pressing need for ongoing research and advanced treatment approaches.
+
+[ME]: How could I turn this into a prompt for an LLM?
+
+[AI]: Despite the successful management of the primary lesion, a major portion of patients with Lymphangioleiomyomatosis (LLM) develop metastases, highlighting the aggressiveness of the disease and the urgency for improved therapeutic strategies.
+
+[ME]: How can I write a sentence to have a student write a sentence about this?
+
+[AI]: Please write a sentence that describes the prevalence of metastasis in patients with Lymphangioleiomyomatosis (LLM), even after successful treatment of the primary lesion, and the need for developing improved therapeutic strategies.
+
+[ME]: 
+#+end_ai
+
 
 Metastatic disease usually involves the liver and is commonly fatal within a year of the onset of symptoms
 
@@ -40,9 +84,48 @@ In this review, we describe UM, cancer immunotherapy and the research that has t
 
 UM threatens patients with visual handicap, a painful eye, facial disfigurement and untimely death from a metastatic disease [6,7,8].
 
-The incidence is approximately six cases per million people per year [9].
 
-Approximately 90% of UMs involve the choroid; the remainder being confined to the iris or the ciliary body [6,8,10].
+#+begin_ai
+What is the purpose of the following sentence in a review paper?  The incidence is approximately six cases per million people per year [9].
+
+[AI]: The sentence is providing specific statistical evidence to support or illustrate a point being made in the review paper. The citation [9] indicates the source of this data.
+
+[ME]: How could I turn this into a prompt for an LLM to get it to provide specific statistical evidence?
+
+[AI]: "AI, provide specific statistical evidence on the incidence rate of this condition on a yearly basis, per million people."
+
+[ME]: AI, provide specific statistical evidence on the incidence rate of pancreatic cancer on a yearly basis, per million people.
+
+[AI]: According to the American Cancer Society, the incidence rate of pancreatic cancer in the United States is 13.1 per 100,000 men and women per year. It's also estimated that approximately 1.6% of men and women are likely to be diagnosed with pancreatic cancer during their lifetime.
+
+[ME]: 
+#+end_ai
+
+
+#+begin_ai
+What is the purpose of the following sentence in a review paper?  Approximately 90% of UMs involve the choroid; the remainder being confined to the iris or the ciliary body [6,8,10].
+
+
+[AI]: The sentence is providing statistical information about the occurrence of Uveal Melanomas (UMs), stating that the majority of them involve the choroid with a smaller percentage affecting the iris or ciliary body. It clarifies the common locations of this condition.
+
+[ME]: How could I turn this into a prompt for an LLM to reproduce the first sentence but for pancreatic cancer?
+
+[AI]: "How frequently do Uveal Melanomas (UMs) occur in the choroid as compared to the iris or the ciliary body?"
+
+[ME]: 
+
+[AI]: Provide a sentence summarizing the distribution of pancreatic cancer manifestations in different parts of the pancreas, similar to how the original sentence detailed the occurrence of Uveal Melanomas (UMs) in different parts of the eye.
+
+[ME]: Provide a sentence summarizing the distribution of pancreatic cancer manifestations in different parts of the pancreas, similar to how the original sentence detailed the occurrence of Uveal Melanomas (UMs) in different parts of the eye.
+
+[AI]: Approximately 70% of pancreatic cancers occur in the head of the pancreas, with the rest spreading to the body and tail of the organ.
+
+[ME]: does the pancreas have a head, body and tail?
+
+[AI]: Yes, the pancreas does have a head, body, and tail. The head of the pancreas is closest to the duodenum, the body is in the middle, and the tail extends towards the spleen. These divisions are significant as they are often referred to when diagnosing conditions such as cancer, pancreatitis, or others. Different symptoms or issues can present depending on which part of the pancreas is affected.
+
+[ME]: 
+#+end_ai
 
 Presentation almost always occurs in adulthood, peaking at around the age of 60 years [8,10].
 
@@ -51,6 +134,7 @@ Males are more commonly affected than females [8,9,10].
 The large majority of patients are white, and a light-coloured iris is a risk factor [8].
 
 Other predisposing factors include ocular melanocytoma, congenital ocular melanocytosis and the BAP1 tumour predisposition syndrome [8].
+
 Approximately 80% of UMs arise from mutations in the G alpha pathway (via mutually exclusive mutations in GNAQ, GNA11, PLCB4 or CYSLTR2) [11].
 
 This is in contrast to cutaneous melanoma (CM), the most common form of melanoma [12], which commonly harbours BRAF and NRAS mutations [8,13].
