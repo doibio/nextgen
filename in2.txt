@@ -1,0 +1,26 @@
+Almost 50% of patients with uveal melanoma (UM) develop metastatic disease (i.e., mqetastatic uveal melanoma (mUM)), despite successful treatment of the primary ocular tumour.
+
+Metastatic disease usually involves the liver and is commonly fatal within a year of the onset of symptoms
+
+Systemic therapy for metastases rarely prolongs life however, recent clinical trials have shown encouraging results with tebentafusp (formerly IMCgp100), a first-in-class, bispecific, fusion protein that redirects CD3+ T cells to gp100-expressing melanoma cells, inducing cytolysis
+
+In this review, we describe UM, cancer immunotherapy and the research that has translated tebentafusp from the laboratory to clinical trials.
+
+UM threatens patients with visual handicap, a painful eye, facial disfigurement and untimely death from a metastatic disease .
+
+The incidence is approximately six cases per million people per year .
+
+Approximately 90% of UMs involve the choroid; the remainder being confined to the iris or the ciliary body .
+
+Presentation almost always occurs in adulthood, peaking at around the age of 60 years .
+
+Males are more commonly affected than females .
+
+The large majority of patients are white, and a light-coloured iris is a risk factor .
+
+Other predisposing factors include ocular melanocytoma, congenital ocular melanocytosis and the BAP1 tumour predisposition syndrome .
+
+Approximately 80% of UMs arise from mutations in the G alpha pathway (via mutually exclusive mutations in GNAQ, GNA11, PLCB4 or CYSLTR2) .
+
+This is in contrast to cutaneous melanoma (CM), the most common form of melanoma , which commonly harbours BRAF and NRAS mutations .
+

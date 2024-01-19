@@ -3,7 +3,7 @@ import os
 
 openai_api_key = os.getenv('OPENAI_API_KEY')
 
-prompt = "What’s the future of AI?"
+prompt = "I am reading a paper review about uveal melanoma.  What would be the purpose of the authors in writing the following sentence?"
 
 inference_params = dict(temperature=0.2, max_tokens=100, api_key = openai_api_key)
 
