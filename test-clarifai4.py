@@ -4,7 +4,7 @@ import os
 
 openai_api_key = os.getenv('OPENAI_API_KEY')
 
-pre_prompt = "I am writing a paper review about uveal melanoma.  Please write a sentence that fufills the following criteria : "
+pre_prompt = "How would I write a sentence that would highlight the seriousness and complexity of uveal melanoma following these criteria : "
 
 inference_params = dict(temperature=0.2, max_tokens=100, api_key = openai_api_key)
 
