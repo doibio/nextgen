@@ -1,0 +1,555 @@
+1. J Card Surg. 1991 Jun;6(2):286-93. doi: 10.1111/j.1540-8191.1991.tb00311.x.
+
+Internal mammary coronary artery anastomosis by CO2 laser: an acute experimental 
+study.
+
+Basu S(1), Marini CP, Coons MS, Woloszyn TT, Folliguet TA, Baumann FG, 
+Jacobowitz IJ.
+
+Author information:
+(1)Department of Surgery, Maimonides Medical Center, State University of New 
+York Health Science Center, Brooklyn.
+
+This study was designed to determine the feasibility of anastomosing the 
+internal mammary artery (IMA) and coronary artery with a carbon dioxide laser in 
+a canine model. Twenty-two mongrel dogs were randomly assigned to two groups: 
+group I (n = 11) underwent laser-assisted vascular anastomosis (LAVA) of the 
+left IMA to the left anterior descending (LAD) coronary artery, whereas in group 
+II (n = 11) the anastomosis was done with the conventional technique (handsewn). 
+Laser methodology was used to micro-weld vessels utilizing a power of 200 mW 
+with a spot size of 500 mu, producing an effective power density of 102 W/cm2 
+and energy fluence of 9,172 joules/cm2 in a continuous mode at a distance of 2 
+cm. The short-term patency rate, measured at 2 hours after completion of the 
+anastomosis, was 100% in both groups. The time required to perform the LAVA in 
+group I was significantly shorter than group II (6.27 +/- 0.47 vs 11.6 +/- 0.67 
+min, p less than 0.05). The mean anastomotic bursting pressure in group I was 
+significantly lower compared to group II (348 +/- 8 vs 402 +/- 9 mmHg, p less 
+than 0.05). Histologic evaluation of all vessels showed moderate thermal injury 
+of the adventitia and media in the laser group. Scanning electron microscopy 
+exhibited a smooth anastomotic area in group I, whereas endothelial and 
+perianastomotic changes with multiple needle craters occurred in group II 
+(conventional anastomosis).(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1111/j.1540-8191.1991.tb00311.x
+PMID: 1806063 [Indexed for MEDLINE]
+
+
+2. Langenbecks Arch Chir. 1986;369:577-8. doi: 10.1007/BF01274438.
+
+[Use of the mammary artery in coronary revascularization].
+
+[Article in German]
+
+Oster H, Dapper F, Tsilimingas N, Leitz KH.
+
+From August 1983 through December 1985 1088 patients underwent coronary surgery. 
+406 (37%) received a single or bilateral internal mammary artery (IMA) graft 
+with single or sequential anastomoses. The youngest patient was 6 years old, the 
+oldest 75, with a mean age of 55.7 years. A total of 672 IMA anastomoses was 
+constructed. In addition 348 patients received 610 saphenous vein grafts. 83% of 
+the IMA were anastomosed to the LAD and its branches, 12% to the circumflex and 
+5% to the right coronary artery. 4 patients (0.98%) died postoperatively, 402 
+survived and are free of angina. In our experience the IMA can be used routinely 
+with low operative risk and good results.
+
+DOI: 10.1007/BF01274438
+PMID: 2880258 [Indexed for MEDLINE]
+
+
+3. J Ir Med Assoc. 1970 Dec;63(402):428-32.
+
+I.M.A. Maternal Mortality Committee. Report for 1969.
+
+[No authors listed]
+
+PMID: 5494029 [Indexed for MEDLINE]
+
+
+4. Herz. 2002 Aug;27(5):402-6. doi: 10.1007/s00059-002-2377-4.
+
+[Minimally invasive coronary surgery].
+
+[Article in German]
+
+Cremer J(1), Böning A, Fraund S.
+
+Author information:
+(1)Klinik für Herz- und Gefässchirurgie, Universitätsklinikum Kiel. 
+JCremer@kielheart.uni-kiel.de
+
+Regardless the general acceptance of cardiac operations by physicians and 
+patients as routine procedures since the early seventies conventional cardiac 
+surgery is still associated with a significant surgical trauma and exceptional 
+invasiveness in part effected by the extracorporeal circulation. In parallel to 
+the common interest of nearly all surgical fields to minimize the invasiveness 
+of surgery the intentions in cardiac surgery aim at minimizing surgical access 
+on the one hand and avoidance of extracorporeal circulation on the other hand. 
+Subsequently a broad variety in applying minimal surgical access including total 
+endoscopic procedures as well as beating heart surgery without extracorporeal 
+circulation with modified cannulation and clamping technology was investigated. 
+Out of these three different concepts were essentially developed for coronary 
+surgery. 1. The MIDCAB (minimally invasive direct coronary artery bypass) 
+procedure with revascularisation of the LAD through an anterior mini-thoracotomy 
+using the left IMA on the beating heart. 2. The OPCAB (off-pump coronary artery 
+bypass) procedure by use of a median complete or partial sternotomy with 
+multi-vessel revascularisation on the beating heart. 3. The TECAB (totally 
+endoscopic coronary artery bypass) procedure with total endoscopic access 
+usually under conditions of extracorporeal circulation. Concluding from 
+significant experience over several years MIDCAB and OPCAB procedures are 
+adequately accepted and can be offered for suitable patients. Regarding the 
+yearly case-load of around 70,000 procedures in coronary surgery in Germany 
+minimally invasive techniques are applied in just up to 4-5%. The individual 
+coronary anatomy and presence of co-morbidities represent essential selection 
+factors deciding over the potential use of minimally invasive techniques.
+
+DOI: 10.1007/s00059-002-2377-4
+PMID: 12365280 [Indexed for MEDLINE]
+
+
+5. Zhonghua Yi Xue Za Zhi. 2006 Jun 6;86(21):1453-6.
+
+[Surgical anatomy of the colic vessels in Chinese and its influence on the 
+operation of esophageal replacement with colon].
+
+[Article in Chinese]
+
+Cheng BC(1), Chang S, Huang J, Mao ZF, Wang ZW, Lu SQ, Wang TS, Wu XJ, Hu H, Xia 
+J, Kang GJ, Xiao YG, Lin HQ.
+
+Author information:
+(1)Department of Thoracic and Cardiovascular Surgery, Renmin Hospital of Wuhan 
+University, Wuhan 430060, China.
+
+OBJECTIVE: To investigate the configuration of colic vessels in Chinese and its 
+influence on the operation of esophageal replacement with colon (ERC).
+METHODS: The origin, trend, branching, configuration, and distribution of the 
+colic vessels, the intensity of the colic arterial impulse, the integrity of the 
+marginal artery at the splenic flexure and hepatic flexure of colon were 
+observed during the operation of ERC among 582 patients undergoing ERC, 402 
+males mad 180 females, aged 2 approximately 74, from 22 provinces, municipality, 
+and autonomous regions.
+RESULTS: The left colic artery (LCA) stemmed from the inferior mesenteric artery 
+(IMA) in 97.3% of the patients, with an absence rate of 0.7%. The middle colic 
+artery (MCA) stemmed from the superior mesenteric artery (SMA) in 77.8% of the 
+patients with an absence rate of 8.2%. Accessory middle colic artery (acMCA), 
+originating from the right colic artery, could be seen in 6.2% of the patients 
+39.7% of the right colic artery (RCA) stemmed from the SMA by itself, 23.0% of 
+the RMA stemmed together with MCA, and 28.0% of the RCA stemmed together with 
+the ileocolic artery. The absence rate of RCA was 9.8%. The intactness rate of 
+marginal artery was 96.8% at the splenic flexure of colon, and was 88.7% at the 
+hepatic flexure. The Rolan arch was seen in only 7.6% of the patients.
+CONCLUSION: The configuration of colic vessels in Chinese was basically similar 
+to those of the results of autopsies carried out abroad. The optimal supply 
+artery of colic segment during ERC is LCA, followed by LCA. Attention should be 
+paid to the integrity of marginal arteries and veins in the patients with 
+history of epigastric operation.
+
+PMID: 16842695 [Indexed for MEDLINE]
+
+
+6. JAMA. 2015 Dec 1;314(21):2251-62. doi: 10.1001/jama.2015.15734.
+
+Effect of Vericiguat, a Soluble Guanylate Cyclase Stimulator, on Natriuretic 
+Peptide Levels in Patients With Worsening Chronic Heart Failure and Reduced 
+Ejection Fraction: The SOCRATES-REDUCED Randomized Trial.
+
+Gheorghiade M(1), Greene SJ(2), Butler J(3), Filippatos G(4), Lam CS(5), 
+Maggioni AP(6), Ponikowski P(7), Shah SJ(8), Solomon SD(9), Kraigher-Krainer 
+E(10), Samano ET(11), Müller K(12), Roessig L(12), Pieske B(13); 
+SOCRATES-REDUCED Investigators and Coordinators.
+
+Collaborators: Ameri L, Buchheim C, Daburger A, Ebner C, Eder V, Gregor D, 
+Gunacker PC, Hoppe U, Huber CA, Huber G, von Lewinski D, Mascherbauer-Steringer 
+R, Mörtl D, Nemec M, Pfnib C, Pieske B, Riedlbauer R, Stefenelli T, Sturmberger 
+T, Verheyen N, Winhard M, Black A, Dwyer N, Hayward C, Kaye D, Keogh A, Kotlyar 
+E, MacDonald P, Roberts-Thompson P, Russell D, Stokes M, Anne W, Ascoop AK, 
+Baetsle P, Basoglu A, Bodea O, Borin C, Cambier P, Coussement P, Debonnaire P, 
+De Ceuninck M, Delforge M, Dëndooven D, Draoui K, Dujardin K, Duytschaever M, 
+Dzukou MK, Gorre F, Hausman P, Hermans K, Joris JM, Koevoets R, Leroy J, Maamar 
+R, Marchal C, Marechal P, Missault L, Muyldermans L, Nimmegeers J, Pouleur AC, 
+Romagnoli M, Scheurwegs C, Stammen F, Striekwold H, Tavernier R, Tombeux C, 
+Tsessue L, Van Beeumen K, Vande Kerckhove L, Vandekerckhove H, Vandekerckhove Y, 
+Vanderdonckt O, Verloove H, Vervoort G, Aleksieva K, Dimitrov N, Georgieva N, 
+Georgieva Z, Grigorov M, Gudev A, Kamburov I, Kinova E, Kolev E, Kulevska I, 
+Kurteva T, Krastev B, Mateeva V, Minchev M, Mincheva V, Petrov P, Petrusheva T, 
+Poroiliev N, Shalganov C, Smoleva D, Spasova N, Stoyanovski V, Tsanova V, 
+Velikov T, Vitlianova K, Coutu B, Bergeron S, Lepage S, Liszkowski M, Moe G, 
+Savard D, Belohlavek J, Bis J, Cermak O, Cervinka P, Dostalova G, Dusek J, 
+Francek L, Hegarova M, Hnatek T, Knot J, Kolouch T, Kral A, Krcova E, Kuchynka 
+P, Macha J, Melenovsky V, Marusincova I, Nadenickova P, Reichenbach A, Rudolecka 
+J, Stancik R, Teply J, Trestik P, Valentikova R, Vavera Z, Vojacek J, Vymetalova 
+J, Bruun N, Fog L, Gislason G, Mellemkjær S, Nielsen BR, Nielsen E, Nielsen K, 
+Refsgaard J, Søgaard P, Sørensen S, Sortsøe H, Bauer F, Glinel B, De Groote P, 
+Hagege AA, Mewton N, Neuder Y, Picard F, Bauersachs J, Beug D, Böhm M, Felix S, 
+Finger C, Kilian J, Kindermann I, Lapp H, Menck N, Müllerleile K, Riad A, 
+Rosenkranz S, Schäfer A, Schunkert H, Sonne C, Stöhring R, Stypmann J, Viethen 
+T, Waltenberger J, Westermann D, Winkelmann BR, Arapi S, Balta D, Fotakis S, 
+Karavidas A, Perpinia A, Patsilinakos S, Tsitsinakis G, Vidalakis E, Kirschner 
+R, Meledin V, Noori E, Varju I, Aboud M, Amir O, Bloch L, Broudner O, Bogomolny 
+N, Butnaru A, Carasso S, Chorin E, Dratva D, Drogenikov T, Fugenfirov I, Gal TB, 
+Ghanim D, Goland S, Hamuda J, Hasin T, Havakuk O, Hazanov E, Jabaren M, Jubeh 
+RB, Kalmanovich E, Katz A, Khatib M, Klutstein MW, Kusniec F, Linde J, Mats I, 
+Meisel SR, Moravsky G, Moriel M, Murninkas D, Nahir M, Nassar A, Neiman E, 
+Nevzorov R, Or T, Paskin JY, Perl ML, Plaev T, Qarawani D, Rabkin Y, Rahkovich 
+M, Rofe MT, Salman N, Shochat M, Shotan A, Steiner HA, Sukholutsky I, Turgeman 
+Y, Tzivoni D, Vassilenko L, Vazan A, Vered Z, Weitsman T, Wiesz G, Yofik I, 
+Zilberman L, Agostoni P, Barbarossa A, Bonadei I, Branzi G, Bulgarelli A, 
+Campana C, Capucci A, Carubelli V, Castelli MG, Castrini AI, Cattadori G, 
+Cattaneo L, Cefalù C, Ciambellotti F, Cosmi F, Dasseni N, De Angelis G, Delfino 
+L, Duino V, Forni G, Giglio AM, Giuli V, Gualco A, Guarise P, Guerra F, Jemoli 
+R, Lazzarini V, Lombardi CM, Lupi L, Malfatto G, Matassini MV, Metra M, Mollica 
+C, Morando G, Opasich C, Parati G, Pavesi C, Quinzani F, Raineri C, Regazzoni V, 
+Scelsi L, Senni M, Tettamanti F, Trichaki E, Tinto M, Turco A, Villa C, Vizzardi 
+E, Aburatani I, Aizawa T, Akashi M, Amenomori K, Aoyama T, Asahi T, Ayata K, 
+Azuma M, Chikata A, Doi H, Enzan N, Fukui K, Fujii S, Fujimori K, Fujinaga H, 
+Fujioka K, Fujino S, Fukagawa H, Fukuda K, Fukuda Y, Fukuda M, Furudono S, 
+Furukawa S, Furuyashiki Y, Fuse J, Goten C, Gyotoku D, Harada K, Harada T, Henmi 
+T, Hiasa Y, Higa N, Hirano N, Hirao H, Hirasawa M, Hondo S, Hoshiba Y, Hosokawa 
+S, Iinuma N, Iguchi K, Ikeda T, Ikegami Y, Ikeuchi Y, Ima T, Inagawa K, Inanaga 
+K, Iseki H, Ito D, Imamura Y, Iwasawa T, Izumi T, Kaibara S, Kageyama N, Kamei 
+I, Kanamori N, Katagiri N, Kato C, Kato S, Kato Y, Kawai H, Kawamura Y, 
+Kinoshita M, Kirigaya H, Kishi K, Kitano K, Kiuchi K, Kobayashi H, Kobayashi S, 
+Koga M, Kurobe M, Kuroki S, Kusakawa Y, Mabuchi T, Manita M, Maruyama M, 
+Mashidori T, Mayumi T, Miki Y, Minami K, Mitsuba N, Miwa T, Miyajima H, Miyamoto 
+J, Miyazaki Y, Mizumasa Y, Momiyama Y, Monji A, Mori K, Morikami Y, Morosawa S, 
+Muroya T, Nagai H, Nagata Y, Nakachi T, Nakagawa Y, Nakaike R, Nakano M, 
+Nakashima H, Nakazawa M, Nakata M, Nako H, Nitta K, Niwa S, Nogi S, Nouno Y, 
+Numata Y, Nunohiro T, Noji Y, Ogura R, Oishi S, Okada A, Okajima K, Okamoto F, 
+Okamoto M, Okamura S, Okumura T, Omi W, Onaka H, Onishi T, Osada J, Oshida Y, 
+Otani R, Otsuka K, Saeki T, Sakagami S, Sakamoto M, Sakota S, Sakura T, Sato K, 
+Sawada T, Sawada T, Shimane A, Shirasawa K, Suenari K, Sugihara T, Sugiura T, 
+Sunamura S, Tabata K, Takahashi T, Takakura M, Takeshita S, Tanaka K, Tanaka T, 
+Taniguchi Y, Tanimoto K, Terada N, Teranishi J, Toba T, Tobetto Y, Tobushi T, 
+Tokuhisa H, Tomariguchi T, Tomimoto H, Tozawa T, Tsukishiro Y, Tsutsumi T, 
+Uchida T, Uchida M, Uchida Y, Uchikawa T, Ueda H, Uejima T, Urabe Y, Usuda K, 
+Watanabe T, Watari Y, Yagi M, Yamada A, Yamada N, Yamada S, Yamada T, Yamagami 
+M, Yamaguchi M, Yamamoto F, Yamamoto H, Yamazato R, Yasaka Y, Yashiro B, Yasuoka 
+T, Yokoi K, Yokoyama Y, Yoneda K, Yuba K, Badings EA, Breedveld RW, de Nooijer 
+C, Kok W, Lok D, Martens F, Nijmeijer R, Tjeerdsma G, Perik P, Theunissen L, 
+Torn M, Tuininga Y, Uijlings R, van der Sluis A, van Wijngaarden J, Banasiak M, 
+Bobon S, Ciurus T, Chudzicka M, Czubek U, Drozdz J, Engel B, Gackowski A, Gil R, 
+Golinska-Grzybala K, Grajek S, Jakubowski P, Kasprzyk M, Kastelik M, Kicinski L, 
+Klotzka A, Krekora J, Krysiak W, Lange-Szczesiak M, Misztal-Teodorczyk M, 
+Moczulska B, Mroziak R, Musial W, Nessler J, Nowak A, Oko-Sarnowska Z, Pawlak A, 
+Piotrowski G, Przybylska A, Rehan P, Rola P, Skorek E, Stepien M, 
+Straburzynska-Migaj E, Szymczak K, Tomaszewska B, Tycinska A, Wegrzynowska M, 
+Zechowicz T, Kim JJ, Kim M, Ong HY, Sim D, Wong R, Yeo D, Achiriga MC, Blas SG, 
+Bonet LA, Bueno MG, Bustillo SR, Carrasco A, Castro FC, Colet JC, Cortada JB, 
+Dolz LM, Durán I, González J, Grau CE, Lázaro IS, López NF, Lozano CB, Mallón 
+DC, Manito N, Marcos MC, Mendiguchía JS, Morillas H, Núñez J, Olmeda ES, Plaza 
+D, Rizzo M, Roca J, Rodríguez I, Soldevilla RC, Valero E, Vázquez de Prada JA, 
+Vílchez FG, Ahlström P, Alehagen U, Alfetlawi M, Arinell K, Cizinsky S, 
+Daher-Knutsen R, Dahlström U, Eriksson-Östman M, Floderer E, Hansen O, Hallén O, 
+Hedman A, Hübbert L, Kostakiotis D, Lugnegård J, Norring D, Olson J, Pantev E, 
+Stagmo M, Szabo B, Tasevska-Dinevska G, Utter F, Wodlin P, Bondio M, Crljenica 
+C, Enseleit F, Estlinbaum W, Flammer A, Frank M, Gutmann M, Kniencke S, Kreuzer 
+S, Leibundgut G, Meyer-Monard S, Moccetti T, Montipanzeri C, Rickenbacher P, 
+Rossi M, Ruschitzka F, Sudano I, Chan WK, Chang YY, Chiang CE, Chiang FT, Chiu 
+YW, Chuang WP, Hsu JC, Huang SH, Hwang JJ, Juang JM, Ke SR, Lai WT, Liao PC, Lin 
+CC, Lin HH, Lin JL, Lin LY, Lin LC, Lin SJ, Lin YH, Liu CW, Liu YH, Lu TM, Pan 
+JP, Sung SH, Tsai CT, Tu CM, Wang KL, Wang TD, Wu CK, Wu YW, Yu WC, Cooke J, 
+Farag M, Gorog D, Hawley C, Okafor O, Alfieri A, Chapman D, Franco V, Gianfagna 
+R, Ghali J, Goldsmith S, Haas G, Lanfear D, Larned J, Lenihan D, Long R, Markham 
+D, McGrew F, Mehta V, Pham D, Rao S, Smart F, Talano J, Tita C, Wagoner L, Zile 
+M, Zwicke D, Gheorghiade M, Pieske B, Butler J, Filippatos G, Ponikowski P, Lam 
+C, Maggioni AP, Shah SJ, Solomon SD, McMurray JJ, Armstrong PW, Granger C, 
+Haverkamp W, Filippatos G, Maggioni AP, Ponikowski P.
+
+Author information:
+(1)Center for Cardiovascular Innovation, Northwestern University Feinberg School 
+of Medicine, Chicago, Illinois.
+(2)Division of Cardiology, Duke University Medical Center, Durham, North 
+Carolina.
+(3)Division of Cardiology, Stony Brook University, Stony Brook, New York.
+(4)Heart Failure Unit, Department of Cardiology, Athens University Hospital 
+Attikon, School of Medicine, National and Kapodistrian University of Athens, 
+Athens, Greece.
+(5)Department of Cardiology, National Heart Centre Singapore and Duke, National 
+University of Singapore, Singapore.
+(6)Associazione Nazionale Medici Cardiologi Ospedalieri Research Center, 
+Florence, Italy.
+(7)Department of Heart Diseases, Medical University, Military Hospital, Wroclaw, 
+Poland.
+(8)Division of Cardiology, Northwestern University Feinberg School of Medicine, 
+Chicago, Illinois.
+(9)Cardiovascular Division, Brigham and Women's Hospital, Boston, Massachusetts.
+(10)Department of Internal Medicine and Cardiology, Charité University Medicine 
+Berlin-Campus Virchow Klinikum, Berlin, Germany.
+(11)Bayer, São Paulo, Brazil.
+(12)Bayer Pharma, Wuppertal, Germany.
+(13)Department of Internal Medicine and Cardiology, Charité University Medicine 
+Berlin-Campus Virchow Klinikum, Berlin, Germany13Department of Internal Medicine 
+and Cardiology, German Heart Center Berlin, Berlin, Germany.
+
+Comment in
+    JAMA. 2015 Dec 1;314(21):2294-5.
+
+IMPORTANCE: Worsening chronic heart failure (HF) is a major public health 
+problem.
+OBJECTIVE: To determine the optimal dose and tolerability of vericiguat, a 
+soluble guanylate cyclase stimulator, in patients with worsening chronic HF and 
+reduced left ventricular ejection fraction (LVEF).
+DESIGN, SETTING, AND PARTICIPANTS: Dose-finding phase 2 study that randomized 
+456 patients across Europe, North America, and Asia between November 2013 and 
+January 2015, with follow-up ending June 2015. Patients were clinically stable 
+with LVEF less than 45% within 4 weeks of a worsening chronic HF event, defined 
+as worsening signs and symptoms of congestion and elevated natriuretic peptide 
+level requiring hospitalization or outpatient intravenous diuretic.
+INTERVENTIONS: Placebo (n = 92) or 1 of 4 daily target doses of oral vericiguat 
+(1.25 mg [n = 91], 2.5 mg [n = 91], 5 mg [n = 91], 10 mg [n = 91]) for 12 weeks.
+MAIN OUTCOMES AND MEASURES: The primary end point was change from baseline to 
+week 12 in log-transformed level of N-terminal pro-B-type natriuretic peptide 
+(NT-proBNP). The primary analysis specified pooled comparison of the 3 
+highest-dose vericiguat groups with placebo, and secondary analysis evaluated a 
+dose-response relationship with vericiguat and the primary end point.
+RESULTS: Overall, 351 patients (77.0%) completed treatment with the study drug 
+with valid 12-week NT-proBNP levels and no major protocol deviation and were 
+eligible for primary end point evaluation. In primary analysis, change in 
+log-transformed NT-proBNP levels from baseline to week 12 was not significantly 
+different between the pooled vericiguat group (log-transformed: baseline, 7.969; 
+12 weeks, 7.567; difference, -0.402; geometric means: baseline, 2890 pg/mL; 12 
+weeks, 1932 pg/mL) and placebo (log-transformed: baseline, 8.283; 12 weeks, 
+8.002; difference, -0.280; geometric means: baseline, 3955 pg/mL; 12 weeks, 2988 
+pg/mL) (difference of means, -0.122; 90% CI, -0.32 to 0.07; ratio of geometric 
+means, 0.885, 90% CI, 0.73-1.08; P = .15). The exploratory secondary analysis 
+suggested a dose-response relationship whereby higher vericiguat doses were 
+associated with greater reductions in NT-proBNP level (P < .02). Rates of any 
+adverse event were 77.2% and 71.4% among the placebo and 10-mg vericiguat 
+groups, respectively.
+CONCLUSIONS AND RELEVANCE: Among patients with worsening chronic HF and reduced 
+LVEF, compared with placebo, vericiguat did not have a statistically significant 
+effect on change in NT-proBNP level at 12 weeks but was well-tolerated. Further 
+clinical trials of vericiguat based on the dose-response relationship in this 
+study are needed to determine the potential role of this drug for patients with 
+worsening chronic HF.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01951625.
+
+DOI: 10.1001/jama.2015.15734
+PMID: 26547357 [Indexed for MEDLINE]
+
+
+7. J Obstet Gynaecol Res. 2017 May;43(5):895-901. doi: 10.1111/jog.13281. Epub
+2017  Feb 11.
+
+The Role of Ischemia Modified Albumin and D-dimer as Early or Late Biochemical 
+Markers in Ovarian Torsion.
+
+Karatas Gurgun A(1), Kaban I(2), Aka N(3), Mentese A(4), Aker F(5), Uras AR(6).
+
+Author information:
+(1)Bafra State Hospital Gynecology and Obstetric.
+(2)İstanbul Training and Research Hospital Gynecology and Obstetric.
+(3)Haydarpasa Numune Training And Research Hospital Gynecology and Obstetric.
+(4)Karadeniz Technical University Biochemistry.
+(5)Haydarpasa Numune Training and Research Hospital Patology.
+(6)Haydarpasa Numune Training and Research Hospital Biochemistry.
+
+OBJECTIVE: Our aim was to examine the potential roles of ischemia modified 
+albumin(IMA) and D-dimer as reliable early diagnostic markers of ovarian 
+torsion.
+MATERIALS AND METHODS: 24 Wistar albino rats were included and randomized into 
+three groups. Control (sham) rats underwent laparotomy then bilateral ovaries 
+removed for histopathological examination and concomitant blood sampling for IMA 
+and D-dimer assays after 4 h. In the remaining groups, ovarian ischemia was 
+achieved by rotating bilateral ovaries 1080° clockwise then blood samples were 
+obtained and ovaries were removed after 4 h and 24 h. IMA and D-dimer levels as 
+well as the histopathological injury scores were assessed in all groups.
+RESULTS: A statistically higher significant difference in D-dimer levels in the 
+4-h torsion group (Group 2) than the other groups (P = 0.001, P < 0.01). Despite 
+absence of statistical significance, the difference in IMA levels between the 
+groups was close to statistical significance (P = 0.064; P > 0.05); accordingly 
+IMA levels were higher in the 24-h torsion group (Group 3), than in 4-h torsion 
+(Group 2) or sham (Group 1) group.
+CONCLUSION: Our results suggest that D-dimer may represent a valuable acute 
+marker of ovarian torsion. The cut-off value for D-dimer was 402 ng/ml. Although 
+rats in Group3 had higher IMA than in other groups, the difference was only 
+close to statistical significance. Also, increasing duration of torsion was 
+associated with reduced D-dimer levels, while IMA levels exhibited an increase 
+during the 24 h period. In contrast with previous studies, IMA appeared to be a 
+potential marker in the long term rather than the short term.
+
+© 2017 Japan Society of Obstetrics and Gynecology.
+
+DOI: 10.1111/jog.13281
+PMID: 28190281 [Indexed for MEDLINE]
+
+
+8. Medicine (Baltimore). 2021 Jan 15;100(2):e24063. doi: 
+10.1097/MD.0000000000024063.
+
+Coronary artery size as a predictor of Y-graft patency following coronary artery 
+bypass surgery.
+
+Limanto DH(1), Chang HW(2), Kim DJ(2), Kim JS(2), Park KH(2), Lim C(2).
+
+Author information:
+(1)Department of Thoracic and Cardiovascular Surgery, Faculty of Medicine 
+Universitas Airlangga, Airlangga University Hospital, dr. Soetomo General 
+Academic Hospital, Surabaya, East Java, Indonesia.
+(2)Department of Thoracic and Cardiovascular Surgery, Seoul National University 
+Bundang Hospital, Gyeonggi-do, Republic of Korea.
+
+This study aims to evaluate the association between target vessel size and graft 
+patency in the right IMA-right coronary territory anastomosis.A total of 402 
+patients who underwent CABG between 2005 and 2016 using the right IMA Y-graft to 
+the posterolateral branch or posterior descending artery were enrolled. 
+Preoperative coronary angiography was utilized to measure the size of the target 
+coronary arteries in the right territory. Follow-up angiography and computed 
+tomography at 6 to 12 months were used to determine graft patency.Thirty 
+patients (7.5%) were found to have occluded graft. Larger target vessel size was 
+associated with lower risk of graft occlusion (OR: 0.18, 95% CI:0.05-0.62, 
+P = .007). The receiver operating characteristic (ROC) curve showed that the 
+cutoff-value of 1.93 mm was found to have the maximum sum of sensitivity and 
+specificity for graft patency (Area under the curve (AUC): 0.65, P = .01). 
+Excluding patients with right coronary artery total occlusion, the 
+discriminative performance of target vessel size became more prominent (AUC: 
+0.76, P < .01), with same cutoff value.In the setting of bilateral IMA composite 
+grafting, the patency of right IMA to right coronary territory was influenced by 
+the size of the target coronary artery. The influence of target coronary artery 
+size was prominent in non-total occlusion patients. Careful selection of a 
+target anastomosis site is recommended.
+
+Copyright © 2021 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000024063
+PMCID: PMC7808508
+PMID: 33466162 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interests to disclose.
+
+
+9. Transl Lung Cancer Res. 2022 Mar;11(3):420-431. doi: 10.21037/tlcr-22-190.
+
+Clinical features and prognosis of resectable pulmonary primary invasive 
+mucinous adenocarcinoma.
+
+Xu X(#)(1)(2), Shen W(#)(3), Wang D(#)(2)(4), Li N(5), Huang Z(1)(2), Sheng 
+J(1)(2), Rucker AJ(6), Mao W(2)(7), Xu H(2)(8), Cheng G(2)(8).
+
+Author information:
+(1)Department of Thoracic Oncology, Cancer Hospital of the University of Chinese 
+Academy of Sciences (Zhejiang Cancer Hospital), Hangzhou, China.
+(2)Institute of Basic Medicine and Cancer (IBMC), Chinese Academy of Sciences, 
+Hangzhou, China.
+(3)Department of Cardiothoracic Surgery, Ningbo Yinzhou No. 2 Hospital, Ningbo, 
+China.
+(4)The Second Clinical Medical College of Zhejiang Chinese Medical University, 
+Hangzhou, China.
+(5)Shaoxing No. 2 Hospital Medical Community General Hospital, Shaoxing, China.
+(6)Division of Cardiovascular and Thoracic Surgery, Department of Surgery, Duke 
+University Medical Center, Durham, NC, USA.
+(7)Zhejiang Key Laboratory of Diagnosis & Treatment Technology on Thoracic 
+Oncology (lung and esophagus), Cancer Hospital of the University of Chinese 
+Academy of Sciences (Zhejiang Cancer Hospital), Hangzhou, China.
+(8)Department of Pathology, Cancer Hospital of the University of Chinese Academy 
+of Sciences (Zhejiang Cancer Hospital), Hangzhou, China.
+(#)Contributed equally
+
+Erratum in
+    Transl Lung Cancer Res. 2022 Dec;11(12):2608-2609.
+
+BACKGROUND: According to the latest the World Health Organization (WHO) 
+classification in 2015, invasive mucinous adenocarcinoma (IMA) is defined as a 
+new pathological subtype of lung adenocarcinoma (LUAD). However, whether this 
+rare subtype of lung pathology has any difference in prognosis than conventional 
+LUAD is debatable. Our study attempted to compare clinical characteristics and 
+prognosis of IMA vs. noninvasive mucinous adenocarcinomas (NMA).
+METHODS: A total of 1,857 patients with LUAD who underwent radical resection 
+were screened from 2010 to 2015 at Zhejiang Cancer Hospital. Patients with 
+pulmonary IMA were matched 1:1 by using propensity scores with LUAD adjusted for 
+clinicopathological characteristics. After follow-up, overall survival (OS) and 
+disease-free survival (DFS) were explored by Kaplan-Meier and Cox regression 
+analyses. Forest plots were used for subgroup analyses.
+RESULTS: Following screening, 499 patients with LUAD were enrolled, with 97 IMA 
+and 402 NMA. Compared to NMA of the lung, IMA was proportionately lower in women 
+(50.5% vs. 63.4%; P=0.026) and nonsmokers (P<0.001). IMA was also associated 
+with earlier tumor stage I (68.0% vs. 55.5%; P=0.033) and lower frequency of 
+upper lobe tumors compared to NMA (P=0.007). Following propensity score 
+matching, 97 pairs were selected, among which we found that patients with 
+pulmonary IMA had a longer OS than those with NMA (P=0.014). According to the 
+subgroup analysis, improved OS in the IMA cohort versus the NMA cohort was 
+observed across various factors, including the absence of lymphovascular 
+invasion or perineural invasion.
+CONCLUSIONS: In this study, we found that resectable IMA patients had a better 
+OS than NMA patients. This study contributes to the understanding of IMA in 
+depth, but it needs to be validated through additional multicenter studies.
+
+2022 Translational Lung Cancer Research. All rights reserved.
+
+DOI: 10.21037/tlcr-22-190
+PMCID: PMC8988085
+PMID: 35399567
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://tlcr.amegroups.com/article/view/10.21037/tlcr-22-190/coif). The authors 
+have no conflicts of interest to declare.
+
+
+10. Cancers (Basel). 2022 Sep 30;14(19):4790. doi: 10.3390/cancers14194790.
+
+Surgical Treatment of Spinal Meningiomas in the Elderly (≥75 Years): Which 
+Factors Affect the Neurological Outcome? An International Multicentric Study of 
+72 Cases.
+
+Capo G(1), Moiraghi A(2)(3)(4), Baro V(5), Tahhan N(1), Delaidelli A(6)(7), 
+Saladino A(8), Paun L(2), DiMeco F(8)(9)(10), Denaro L(5), Meling TR(2), 
+Tessitore E(2), Barrey CY(1)(11).
+
+Author information:
+(1)Department of Spine and Spinal Cord Surgery, Hôpital Pierre Wertheimer, 
+Hospices Civils de Lyon, Claude Bernard University of Lyon 1, 59 Boulevard 
+Pinel, 69677 Lyon-Bron, France.
+(2)Department of Neurosurgery, Geneva University Hospitals, Faculty of Medicine, 
+University of Geneva, 1205 Geneva, Switzerland.
+(3)Department of Neurosurgery, GHU Paris-Psychiatrie et Neurosciences, 
+Sainte-Anne Hospital, 75014 Paris, France.
+(4)Institut de Psychiatrie et Neurosciences de Paris (IPNP), UMR S1266, INSERM, 
+IMA-BRAIN, 75014 Paris, France.
+(5)Academic Neurosurgery, Department of Neurosciences, University of Padova, 
+35128 Padova, Italy.
+(6)Department of Molecular Oncology, British Columbia Cancer Research Centre, 
+Vancouver, BC V5Z 1L3, Canada.
+(7)Department of Pathology and Laboratory Medicine, University of British 
+Columbia, Vancouver, BC V6T 1Z7, Canada.
+(8)Neurosurgery Department, Fondazione IRCCS Istituto Neurologico Nazionale "C. 
+Besta", 20133 Milan, Italy.
+(9)Department of Oncology and Hemato-Oncology, University of Milan, 20122 Milan, 
+Italy.
+(10)Department of Neurological Surgery, Johns Hopkins Medical School, Baltimore, 
+MD 21205, USA.
+(11)Laboratory of Biomechanics, ENSAM, Arts et Metiers ParisTech, 153 Boulevard 
+de l'Hôpital, 75013 Paris, France.
+
+(1) Background: With the increasing life expectancy in the Western world, an 
+increasing number of old patients presents with spinal meningioma. Considering 
+the benign nature of these tumors, the functional outcome remains of great 
+importance, since more people reach old age in general conditions of well-being 
+and satisfactory autonomy. (2) Methods: We conducted an international 
+multicenter retrospective study to investigate demographic, clinical and 
+radiological data in a population of elderly patients (≥75 years of age) 
+undergoing surgery for SM from January 2000 to December 2020 in four European 
+referral centers. The aim was to identify prognostic and predictive factors for 
+a good postoperative functional outcome. (3) Results: 72 patients were included 
+in the study. Complete tumor resection (Simpson I or II) was achieved in 67 
+(95.7%) cases. Intraoperative complications were reported in 7 (9.9%) patients 
+while postoperative complications were found in 12 (16.7%). An excellent general 
+postoperative status (McCormick I and II) was achieved in 65.3%. Overall, 
+surgical resection had a good impact on patients’ functional outcome (86.1% 
+either showing an improvement or maintaining a good preoperative status). Uni- 
+and multivariate analyses found that both age and preoperative modified 
+McCormick independently correlated with relative outcome (coeff = −0.058, p = 
+0.0251; coeff = 0.597, p < 0.0001) and with postoperative status (coeff = 0.058, 
+p = 0.02507; coeff = 0.402, p = 0.00027), respectively. (4) Conclusions: Age and 
+preoperative modified McCormick were found to be independent prognostic factors. 
+Nevertheless, advanced age (≥75), per se, did not seem to contraindicate 
+surgery, even in those with severe preoperative neurological deficits. The 
+functional results sustain the need for surgical resection of SM in the elderly.
+
+DOI: 10.3390/cancers14194790
+PMCID: PMC9563730
+PMID: 36230713
+
+Conflict of interest statement: Enrico Tessitore: training fees from Spineart 
+and Depuy Synthes. The other authors have no conflict of interest to disclose.

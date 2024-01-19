@@ -25,7 +25,6 @@ Almost 50% of patients with uveal melanoma (UM) develop metastatic disease (i.e.
 #+begin_ai
 Provide any statistical information related to metastatic disease in uveal melanoma patients.
 
-
 [AI]: 1. Uveal melanoma metastasizes to a distant organ, primarily to the liver, in approximately half of the patients. The primary tumor can often be controlled, but most deaths related to uveal melanoma are due to untreatable metastatic disease.
 
 2. Once metastasis is detected, the median survival time is between 6 to 12 months, reflecting the paucity of effective treatments for metastatic uveal melanoma.
@@ -50,8 +49,9 @@ Source:
 [ME]: 
 #+end_ai
 `
-
+#+begin_ai
 Metastatic disease usually involves the liver and is commonly fatal within a year of the onset of symptoms
+#+end_ai
 
 Systemic therapy for metastases rarely prolongs life however, recent clinical trials have shown encouraging results with tebentafusp (formerly IMCgp100), a first-in-class, bispecific, fusion protein that redirects CD3+ T cells to gp100-expressing melanoma cells, inducing cytolysis
 
@@ -134,11 +134,13 @@ For example, cytotoxic T cells are prevented from attacking normal cells by expr
 In addition, any T cells that recognise self-antigens are normally inhibited, inactivated, or deleted by ‘tolerogenic’ dendritic cells, which play a vital role in maintaining central and peripheral tolerance, either directly or via the generation and activation of regulatory T cells (known as Treg cells) .
 
 Cytotoxic T cells are also then suppressed by Treg cells .
+
 A cancer that is clinically detectable has, by definition, evaded immune-mediated destruction.
 
 T cell eradication of cancer cells displaying high numbers of neoantigens creates a selection pressure for cells displaying fewer neoantigens (i.e., ‘immunoediting’) .
 
 Furthermore, malignant tumours can create an immunosuppressive environment, for example, by expressing programmed death-ligand 1 (PD-L1) to downregulate the activity of cytotoxic T cells, as well as attracting Treg cells and secreting immunosuppressive cytokines .
+
 Immunotherapy aims to circumvent immune evasion by tumour cells and to induce immune-mediated tumour cell death.
 
 One of the earliest forms of immunotherapy deployed interleukin (IL)-2 , a T cell growth factor that stimulates expansion of cytotoxic T cells and natural killer cells .
@@ -165,7 +167,9 @@ These include CD122 agonists, which bind CD122 (the IL-2 receptor) and induce CD
 
 UMs have a number of features that make them less amenable to current immunotherapies. Algazi et al. performed a meta-analysis focusing on patients with mUM receiving immune checkpoint inhibitors against PD-1 and PD-L1, and reported an objective response rate (ORR) of only 3.6% and a median progression-free survival (PFS) as short as 2.6 months .
 
-These poor results were confirmed by a meta-analysis by Khoja et al., which showed a median PFS of 2.8 months in patients receiving immunotherapies  Among the potential biological explanations for this limited efficacy is the finding that UM has one of the lowest tumour mutational burden amongst all cancers, therefore, the neoantigen display is limited .
+These poor results were confirmed by a meta-analysis by Khoja et al., which showed a median PFS of 2.8 months in patients receiving immunotherapies.
+
+Among the potential biological explanations for this limited efficacy is the finding that UM has one of the lowest tumour mutational burden amongst all cancers, therefore, the neoantigen display is limited .
 
 This might explain why checkpoint inhibitors, when tested in patients with mUM, have shown little clinical benefit .
 
@@ -207,6 +211,7 @@ scFv—Single-chain variable fragment; TCR, T cell receptor.
 Native TCRs, which are membrane-bound, have an affinity for specific pHLA complexes typically in the range of 10–300 µM .
 
 To create a therapeutically efficacious ImmTAC molecule, three challenges had to be addressed—(a) producing a soluble TCR that was stable; (b) enhancing ImmTAC molecule affinity to tumour antigens; and (c) triggering an antitumour immune response.
+
 The native TCR is a heterodimer consisting of two transmembrane α and β chains linked by a membrane–proximal disulphide bond .
 
 While it is possible to produce a soluble TCR by removing the transmembrane elements of the two chains, this process breaks the disulphide bond so that the resulting heterodimer easily disassociates and is unable to bind its target .
@@ -214,6 +219,7 @@ While it is possible to produce a soluble TCR by removing the transmembrane elem
 To overcome this issue, an artificial disulphide bond was created between the two chains by mutating two proximal residues to cysteine.
 
 This results in a soluble, stable TCR that forms the basis of ImmTAC molecule-targeting .
+
 Secondly, natural TCRs have a low affinity for their target antigens, with Kd values typically in the range of 10–300 µM .
 
 Increasing this affinity is essential for creating therapeutically useful TCRs, given that the target tumour cells can display as few as 10 pHLA complexes per cell .
@@ -223,11 +229,13 @@ Additionally, soluble TCRs lack the avidity provided by co-receptor engagement i
 By mutating the hypervariable regions of the TCR, affinity to target is increased 106-fold (resulting Kd in the picomolar range), without increasing cross-reactivity .
 
 In vitro, this increases the binding half-life of ImmTAC molecules to specific antigens, from seconds to hours .
+
 Thirdly, binding of the ImmTAC molecule to a cancer-associated antigen needs to be coupled to immune cell activation.
 
 This is achieved by creating a TCR-anti-CD3 scFv domain fusion protein, which engages the CD3 receptors on T cells, replicating a natural immune synapse.
 
 The anti-CD3 domain of an ImmTAC molecule has a nanomolar affinity for the CD3 receptor that is a 1000-fold weaker than the TCR domain, ensuring that the affinity for the pHLA complex drives ImmTAC molecule activity, rather than the ability to stimulate T cells through the CD3 receptor .
+
 The resulting ImmTAC molecule is a soluble, high-affinity TCR that targets a specific pHLA complex.
 
 Importantly, unlike adoptive T cell therapies, ImmTAC molecules are not patient-specific and as a result can be administered ‘off-the-shelf’, reducing the delay to patients and the need for specialised cellular manufacturing.
